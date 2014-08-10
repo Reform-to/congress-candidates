@@ -8410,7 +8410,7 @@
     state: IA
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IA03099
@@ -8422,7 +8422,7 @@
     state: IA
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IA03073
@@ -8434,7 +8434,7 @@
     state: IA
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IA03123
@@ -8446,7 +8446,7 @@
     state: IA
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IA03081
@@ -8458,7 +8458,7 @@
     state: IA
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IA03107
@@ -8470,7 +8470,7 @@
     state: IA
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IA03057
@@ -8482,7 +8482,7 @@
     state: IA
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IA03131
@@ -8494,7 +8494,7 @@
     state: IA
     district: 3
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IA03115
@@ -8506,7 +8506,7 @@
     state: IA
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4IA00103
@@ -8518,7 +8518,7 @@
     state: IA
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0IA03139
@@ -8530,7 +8530,7 @@
     state: IA
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IA05072
