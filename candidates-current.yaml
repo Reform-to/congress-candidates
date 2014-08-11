@@ -1474,7 +1474,7 @@
     state: CA
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA01066
@@ -1486,7 +1486,7 @@
     state: CA
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA02142
@@ -1498,7 +1498,7 @@
     state: CA
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA01074
@@ -1510,7 +1510,7 @@
     state: CA
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA02118
@@ -1522,7 +1522,7 @@
     state: CA
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA06259
@@ -1534,7 +1534,7 @@
     state: CA
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA02098
@@ -1546,7 +1546,7 @@
     state: CA
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0CA10149
@@ -1558,7 +1558,7 @@
     state: CA
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA03104
@@ -1570,7 +1570,7 @@
     state: CA
     district: 3
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA03096
@@ -1582,7 +1582,7 @@
     state: CA
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA04086
@@ -1594,7 +1594,7 @@
     state: CA
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA04110
@@ -1606,7 +1606,7 @@
     state: CA
     district: 4
     party: UNK
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA04094
@@ -1618,7 +1618,7 @@
     state: CA
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8CA04152
@@ -1630,7 +1630,7 @@
     state: CA
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA04102
@@ -1642,7 +1642,7 @@
     state: CA
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA42122
@@ -1654,7 +1654,7 @@
     state: CA
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA05257
@@ -1666,7 +1666,7 @@
     state: CA
     district: 5
     party: NNE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8CA01109
@@ -1678,7 +1678,7 @@
     state: CA
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA11099
@@ -1690,7 +1690,7 @@
     state: CA
     district: 5
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6CA05195
@@ -1702,7 +1702,7 @@
     state: CA
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA06291
@@ -1714,7 +1714,7 @@
     state: CA
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0CA03078
@@ -1726,7 +1726,7 @@
     state: CA
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA07055
@@ -1738,7 +1738,7 @@
     state: CA
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CA11352
@@ -1750,7 +1750,7 @@
     state: CA
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8CA03105
@@ -1762,7 +1762,7 @@
     state: CA
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA07063
@@ -1774,7 +1774,7 @@
     state: CA
     district: 7
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8CA05134
@@ -1786,7 +1786,7 @@
     state: CA
     district: 7
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6CA40234
@@ -1798,7 +1798,7 @@
     state: CA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA08111
@@ -1810,7 +1810,7 @@
     state: CA
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA08164
@@ -1822,7 +1822,7 @@
     state: CA
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA08103
@@ -1834,7 +1834,7 @@
     state: CA
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA08129
@@ -1846,7 +1846,7 @@
     state: CA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA00138
@@ -1858,7 +1858,7 @@
     state: CA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CA11337
@@ -1870,7 +1870,7 @@
     state: CA
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA09069
@@ -1882,7 +1882,7 @@
     state: CA
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA09077
@@ -1894,7 +1894,7 @@
     state: CA
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA11081
@@ -1906,7 +1906,7 @@
     state: CA
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA00096
@@ -1918,7 +1918,7 @@
     state: CA
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CA11360
@@ -1930,7 +1930,7 @@
     state: CA
     district: 10
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CA19173
@@ -1942,7 +1942,7 @@
     state: CA
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA10075
@@ -1954,7 +1954,7 @@
     state: CA
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA11115
@@ -1966,7 +1966,7 @@
     state: CA
     district: 11
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CA10073
@@ -1978,7 +1978,7 @@
     state: CA
     district: 11
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8CA07031
@@ -1990,7 +1990,7 @@
     state: CA
     district: 11
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA11123
@@ -2002,7 +2002,7 @@
     state: CA
     district: 11
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA11107
@@ -2014,7 +2014,7 @@
     state: CA
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA11131
@@ -2026,7 +2026,7 @@
     state: CA
     district: 11
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA11168
@@ -2038,7 +2038,7 @@
     state: CA
     district: 11
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA12105
@@ -2050,7 +2050,7 @@
     state: CA
     district: 12
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CA08069
@@ -2062,7 +2062,7 @@
     state: CA
     district: 12
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA12089
@@ -2074,7 +2074,7 @@
     state: CA
     district: 12
     party: GRE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA12113
@@ -2086,7 +2086,7 @@
     state: CA
     district: 12
     party: PAF
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8CA05035
@@ -2098,7 +2098,7 @@
     state: CA
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0CA10172
@@ -2110,7 +2110,7 @@
     state: CA
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA12139
@@ -2122,7 +2122,7 @@
     state: CA
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA12121
@@ -2134,7 +2134,7 @@
     state: CA
     district: 12
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA12147
@@ -2146,7 +2146,7 @@
     state: CA
     district: 12
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CA09091
@@ -2158,7 +2158,7 @@
     state: CA
     district: 13
     party: PAF
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CA13093
@@ -2170,7 +2170,7 @@
     state: CA
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8CA09060
@@ -2182,7 +2182,7 @@
     state: CA
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA13087
@@ -2194,7 +2194,7 @@
     state: CA
     district: 13
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA18060
@@ -2206,7 +2206,7 @@
     state: CA
     district: 14
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8CA12171
@@ -2218,7 +2218,7 @@
     state: CA
     district: 14
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA15066
@@ -2230,7 +2230,7 @@
     state: CA
     district: 15
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA15086
@@ -2242,7 +2242,7 @@
     state: CA
     district: 15
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA15102
@@ -2254,7 +2254,7 @@
     state: CA
     district: 15
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA15094
@@ -2266,7 +2266,7 @@
     state: CA
     district: 15
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA16106
@@ -2278,7 +2278,7 @@
     state: CA
     district: 16
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA20082
@@ -2290,7 +2290,7 @@
     state: CA
     district: 16
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA16148
@@ -2302,7 +2302,7 @@
     state: CA
     district: 16
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA16114
@@ -2314,7 +2314,7 @@
     state: CA
     district: 16
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA16122
@@ -2326,7 +2326,7 @@
     state: CA
     district: 16
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA16130
@@ -2338,7 +2338,7 @@
     state: CA
     district: 16
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA16100
@@ -2350,7 +2350,7 @@
     state: CA
     district: 16
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0CA15148
@@ -2362,7 +2362,7 @@
     state: CA
     district: 17
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA12055
@@ -2374,7 +2374,7 @@
     state: CA
     district: 17
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA17294
@@ -2386,7 +2386,7 @@
     state: CA
     district: 17
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA17302
@@ -2398,7 +2398,7 @@
     state: CA
     district: 17
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA18086
@@ -2410,7 +2410,7 @@
     state: CA
     district: 18
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA18102
@@ -2422,7 +2422,7 @@
     state: CA
     district: 18
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8CA12098
@@ -2434,7 +2434,7 @@
     state: CA
     district: 18
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA18078
@@ -2446,7 +2446,7 @@
     state: CA
     district: 18
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA18094
@@ -2458,7 +2458,7 @@
     state: CA
     district: 18
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA19092
@@ -2470,7 +2470,7 @@
     state: CA
     district: 19
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA16049
@@ -2482,7 +2482,7 @@
     state: CA
     district: 19
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA19112
@@ -2494,7 +2494,7 @@
     state: CA
     district: 19
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA17021
@@ -2506,7 +2506,7 @@
     state: CA
     district: 20
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0CA17185
@@ -2518,7 +2518,7 @@
     state: CA
     district: 20
     party: NNE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0CA19082
@@ -2530,7 +2530,7 @@
     state: CA
     district: 21
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA21072
@@ -2542,7 +2542,7 @@
     state: CA
     district: 21
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA20094
@@ -2554,7 +2554,7 @@
     state: CA
     district: 21
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA22112
@@ -2566,7 +2566,7 @@
     state: CA
     district: 22
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA22104
@@ -2578,7 +2578,7 @@
     state: CA
     district: 22
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8CA20059
@@ -2590,7 +2590,7 @@
     state: CA
     district: 22
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA23169
@@ -2602,7 +2602,7 @@
     state: CA
     district: 23
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA23151
@@ -2614,7 +2614,7 @@
     state: CA
     district: 23
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33036
@@ -2626,7 +2626,7 @@
     state: CA
     district: 23
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6CA22125
@@ -2638,7 +2638,7 @@
     state: CA
     district: 23
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA23177
@@ -2650,7 +2650,7 @@
     state: CA
     district: 23
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA23144
@@ -2662,7 +2662,7 @@
     state: CA
     district: 23
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA24175
@@ -2674,7 +2674,7 @@
     state: CA
     district: 24
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8CA22089
@@ -2686,7 +2686,7 @@
     state: CA
     district: 24
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA24134
@@ -2698,7 +2698,7 @@
     state: CA
     district: 24
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA24142
@@ -2710,7 +2710,7 @@
     state: CA
     district: 24
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA24159
@@ -2722,7 +2722,7 @@
     state: CA
     district: 24
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA24183
@@ -2734,7 +2734,7 @@
     state: CA
     district: 24
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8CA23087
@@ -2746,7 +2746,7 @@
     state: CA
     district: 24
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA23114
@@ -2758,7 +2758,7 @@
     state: CA
     district: 24
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA24167
@@ -2770,7 +2770,7 @@
     state: CA
     district: 24
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA25156
@@ -2782,7 +2782,7 @@
     state: CA
     district: 25
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA25131
@@ -2794,7 +2794,7 @@
     state: CA
     district: 25
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA25149
@@ -2806,7 +2806,7 @@
     state: CA
     district: 25
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA25123
@@ -2818,7 +2818,7 @@
     state: CA
     district: 25
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA25164
@@ -2830,7 +2830,7 @@
     state: CA
     district: 25
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA25115
@@ -2842,7 +2842,7 @@
     state: CA
     district: 25
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA25143
@@ -2854,7 +2854,7 @@
     state: CA
     district: 25
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8CA27088
@@ -2866,7 +2866,7 @@
     state: CA
     district: 25
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA26109
@@ -2878,7 +2878,7 @@
     state: CA
     district: 25
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA25107
@@ -2890,7 +2890,7 @@
     state: CA
     district: 25
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA00120
@@ -2902,7 +2902,7 @@
     state: CA
     district: 26
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA26139
@@ -2914,7 +2914,7 @@
     state: CA
     district: 26
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA26147
@@ -2926,7 +2926,7 @@
     state: CA
     district: 26
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0CA23043
@@ -2938,7 +2938,7 @@
     state: CA
     district: 26
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA26154
@@ -2950,7 +2950,7 @@
     state: CA
     district: 26
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CA32101
@@ -2962,7 +2962,7 @@
     state: CA
     district: 27
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA27198
@@ -2974,7 +2974,7 @@
     state: CA
     district: 27
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6CA31126
@@ -2986,7 +2986,7 @@
     state: CA
     district: 28
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CA27085
@@ -2998,7 +2998,7 @@
     state: CA
     district: 28
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA28077
@@ -3010,7 +3010,7 @@
     state: CA
     district: 28
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA28085
@@ -3022,7 +3022,7 @@
     state: CA
     district: 28
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA28113
@@ -3034,7 +3034,7 @@
     state: CA
     district: 29
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA29125
@@ -3046,7 +3046,7 @@
     state: CA
     district: 29
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA29133
@@ -3058,7 +3058,7 @@
     state: CA
     district: 29
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA30107
@@ -3070,7 +3070,7 @@
     state: CA
     district: 30
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA30081
@@ -3082,7 +3082,7 @@
     state: CA
     district: 30
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA30099
@@ -3094,7 +3094,7 @@
     state: CA
     district: 30
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA30259
@@ -3106,7 +3106,7 @@
     state: CA
     district: 30
     party: GRE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA30123
@@ -3118,7 +3118,7 @@
     state: CA
     district: 30
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CA27101
@@ -3130,7 +3130,7 @@
     state: CA
     district: 30
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6CA24113
@@ -3142,7 +3142,7 @@
     state: CA
     district: 30
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA30115
@@ -3154,7 +3154,7 @@
     state: CA
     district: 30
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA31125
@@ -3166,7 +3166,7 @@
     state: CA
     district: 31
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6CA42099
@@ -3178,7 +3178,7 @@
     state: CA
     district: 31
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA31071
@@ -3190,7 +3190,7 @@
     state: CA
     district: 31
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA31105
@@ -3202,7 +3202,7 @@
     state: CA
     district: 31
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA31089
@@ -3214,7 +3214,7 @@
     state: CA
     district: 31
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA31055
@@ -3226,7 +3226,7 @@
     state: CA
     district: 31
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA31063
@@ -3238,7 +3238,7 @@
     state: CA
     district: 31
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA31097
@@ -3250,7 +3250,7 @@
     state: CA
     district: 31
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA32103
@@ -3262,7 +3262,7 @@
     state: CA
     district: 32
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8CA34068
@@ -3274,7 +3274,7 @@
     state: CA
     district: 32
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA33147
@@ -3286,7 +3286,7 @@
     state: CA
     district: 33
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33135
@@ -3298,7 +3298,7 @@
     state: CA
     district: 33
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA30234
@@ -3310,7 +3310,7 @@
     state: CA
     district: 33
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA36421
@@ -3322,7 +3322,7 @@
     state: CA
     district: 33
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33176
@@ -3334,7 +3334,7 @@
     state: CA
     district: 33
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33200
@@ -3346,7 +3346,7 @@
     state: CA
     district: 33
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33093
@@ -3358,7 +3358,7 @@
     state: CA
     district: 33
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33101
@@ -3370,7 +3370,7 @@
     state: CA
     district: 33
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33234
@@ -3382,7 +3382,7 @@
     state: CA
     district: 33
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33184
@@ -3394,7 +3394,7 @@
     state: CA
     district: 33
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33143
@@ -3406,7 +3406,7 @@
     state: CA
     district: 33
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33150
@@ -3418,7 +3418,7 @@
     state: CA
     district: 33
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33119
@@ -3430,7 +3430,7 @@
     state: CA
     district: 33
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA33168
@@ -3442,7 +3442,7 @@
     state: CA
     district: 33
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33259
@@ -3454,7 +3454,7 @@
     state: CA
     district: 33
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33218
@@ -3466,7 +3466,7 @@
     state: CA
     district: 33
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33127
@@ -3478,7 +3478,7 @@
     state: CA
     district: 33
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA33121
@@ -3490,7 +3490,7 @@
     state: CA
     district: 33
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33242
@@ -3502,7 +3502,7 @@
     state: CA
     district: 33
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33226
@@ -3514,7 +3514,7 @@
     state: CA
     district: 33
     party: GRE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33192
@@ -3526,7 +3526,7 @@
     state: CA
     district: 33
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA33085
@@ -3538,7 +3538,7 @@
     state: CA
     district: 33
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA30143
@@ -3550,7 +3550,7 @@
     state: CA
     district: 34
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA34075
@@ -3562,7 +3562,7 @@
     state: CA
     district: 34
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA34053
@@ -3574,7 +3574,7 @@
     state: CA
     district: 34
     party: PAF
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA34067
@@ -3586,7 +3586,7 @@
     state: CA
     district: 34
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA34059
@@ -3598,7 +3598,7 @@
     state: CA
     district: 34
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA35049
@@ -3610,7 +3610,7 @@
     state: CA
     district: 35
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA35056
@@ -3622,7 +3622,7 @@
     state: CA
     district: 35
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA35064
@@ -3634,7 +3634,7 @@
     state: CA
     district: 35
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA35031
@@ -3646,7 +3646,7 @@
     state: CA
     district: 35
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA35126
@@ -3658,7 +3658,7 @@
     state: CA
     district: 35
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA53012
@@ -3670,7 +3670,7 @@
     state: CA
     district: 36
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA36120
@@ -3682,7 +3682,7 @@
     state: CA
     district: 36
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA36439
@@ -3694,7 +3694,7 @@
     state: CA
     district: 36
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0CA33117
@@ -3706,7 +3706,7 @@
     state: CA
     district: 37
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0CA33109
@@ -3718,7 +3718,7 @@
     state: CA
     district: 37
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA29026
@@ -3730,7 +3730,7 @@
     state: CA
     district: 37
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA37078
@@ -3742,7 +3742,7 @@
     state: CA
     district: 37
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA38237
@@ -3754,7 +3754,7 @@
     state: CA
     district: 38
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA39078
@@ -3766,7 +3766,7 @@
     state: CA
     district: 38
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA39041
@@ -3778,7 +3778,7 @@
     state: CA
     district: 39
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6CA39020
@@ -3790,7 +3790,7 @@
     state: CA
     district: 39
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA33048
@@ -3802,7 +3802,7 @@
     state: CA
     district: 40
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CA34099
@@ -3814,7 +3814,7 @@
     state: CA
     district: 40
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA41120
@@ -3826,7 +3826,7 @@
     state: CA
     district: 41
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA41138
@@ -3838,7 +3838,7 @@
     state: CA
     district: 41
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA41146
@@ -3850,7 +3850,7 @@
     state: CA
     district: 41
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA43245
@@ -3862,7 +3862,7 @@
     state: CA
     district: 41
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA37023
@@ -3874,7 +3874,7 @@
     state: CA
     district: 42
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA42060
@@ -3886,7 +3886,7 @@
     state: CA
     district: 42
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA42110
@@ -3898,7 +3898,7 @@
     state: CA
     district: 42
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA42094
@@ -3910,7 +3910,7 @@
     state: CA
     district: 42
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA42102
@@ -3922,7 +3922,7 @@
     state: CA
     district: 42
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA42078
@@ -3934,7 +3934,7 @@
     state: CA
     district: 42
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA42086
@@ -3946,7 +3946,7 @@
     state: CA
     district: 42
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA43092
@@ -3958,7 +3958,7 @@
     state: CA
     district: 43
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA43076
@@ -3970,7 +3970,7 @@
     state: CA
     district: 43
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA23011
@@ -3982,7 +3982,7 @@
     state: CA
     district: 43
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA43084
@@ -3994,7 +3994,7 @@
     state: CA
     district: 43
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8CA36097
@@ -4006,7 +4006,7 @@
     state: CA
     district: 44
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA44157
@@ -4018,7 +4018,7 @@
     state: CA
     district: 44
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA44165
@@ -4030,7 +4030,7 @@
     state: CA
     district: 44
     party: PAF
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA49107
@@ -4042,7 +4042,7 @@
     state: CA
     district: 45
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA45105
@@ -4054,7 +4054,7 @@
     state: CA
     district: 45
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA45113
@@ -4066,7 +4066,7 @@
     state: CA
     district: 45
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA45089
@@ -4078,7 +4078,7 @@
     state: CA
     district: 45
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA36397
@@ -4090,7 +4090,7 @@
     state: CA
     district: 45
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA45097
@@ -4102,7 +4102,7 @@
     state: CA
     district: 45
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA46103
@@ -4114,7 +4114,7 @@
     state: CA
     district: 46
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA46123
@@ -4126,7 +4126,7 @@
     state: CA
     district: 46
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA46129
@@ -4138,7 +4138,7 @@
     state: CA
     district: 46
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6CA46033
@@ -4150,7 +4150,7 @@
     state: CA
     district: 46
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA46111
@@ -4162,7 +4162,7 @@
     state: CA
     district: 46
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA47077
@@ -4174,7 +4174,7 @@
     state: CA
     district: 47
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA00104
@@ -4186,7 +4186,7 @@
     state: CA
     district: 47
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA47069
@@ -4198,7 +4198,7 @@
     state: CA
     district: 47
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA46040
@@ -4210,7 +4210,7 @@
     state: CA
     district: 48
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA48059
@@ -4222,7 +4222,7 @@
     state: CA
     district: 48
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA48034
@@ -4234,7 +4234,7 @@
     state: CA
     district: 48
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8CA42061
@@ -4246,7 +4246,7 @@
     state: CA
     district: 48
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA48042
@@ -4258,7 +4258,7 @@
     state: CA
     district: 48
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA49123
@@ -4270,7 +4270,7 @@
     state: CA
     district: 49
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CA48024
@@ -4282,7 +4282,7 @@
     state: CA
     district: 49
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA49115
@@ -4294,7 +4294,7 @@
     state: CA
     district: 49
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA49099
@@ -4306,7 +4306,7 @@
     state: CA
     district: 49
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0CA52018
@@ -4318,7 +4318,7 @@
     state: CA
     district: 50
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8CA52052
@@ -4330,7 +4330,7 @@
     state: CA
     district: 50
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA50166
@@ -4342,7 +4342,7 @@
     state: CA
     district: 50
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA51087
@@ -4354,7 +4354,7 @@
     state: CA
     district: 51
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA51079
@@ -4366,7 +4366,7 @@
     state: CA
     district: 51
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CA50026
@@ -4378,7 +4378,7 @@
     state: CA
     district: 51
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA52051
@@ -4390,7 +4390,7 @@
     state: CA
     district: 52
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA52069
@@ -4402,7 +4402,7 @@
     state: CA
     district: 52
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA52089
@@ -4414,7 +4414,7 @@
     state: CA
     district: 52
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA52077
@@ -4426,7 +4426,7 @@
     state: CA
     district: 52
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA53109
@@ -4438,7 +4438,7 @@
     state: CA
     district: 53
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA53083
@@ -4450,7 +4450,7 @@
     state: CA
     district: 53
     party: UNK
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CA49055
@@ -4462,7 +4462,7 @@
     state: CA
     district: 53
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA53091
@@ -4474,7 +4474,7 @@
     state: CA
     district: 53
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA53042
@@ -4486,7 +4486,7 @@
     state: CA
     district: 53
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA53067
@@ -4498,7 +4498,7 @@
     state: CA
     district: 53
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA53075
@@ -4510,7 +4510,7 @@
     state: CA
     district: 53
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CA53059
@@ -4522,7 +4522,7 @@
     state: CA
     district: 53
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4CO00361
