@@ -670,7 +670,7 @@
     state: AR
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4AR00129
@@ -682,7 +682,7 @@
     state: AR
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S0AR00028
@@ -694,7 +694,7 @@
     state: AR
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4AR00111
@@ -706,7 +706,7 @@
     state: AR
     district: 0
     party: GRE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0AR01083
@@ -718,7 +718,7 @@
     state: AR
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AR01051
@@ -730,7 +730,7 @@
     state: AR
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AR01069
@@ -742,7 +742,7 @@
     state: AR
     district: 1
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AR02158
@@ -754,7 +754,7 @@
     state: AR
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AR02133
@@ -766,7 +766,7 @@
     state: AR
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AR02141
@@ -778,7 +778,7 @@
     state: AR
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AR02166
@@ -790,7 +790,7 @@
     state: AR
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AR02174
@@ -802,7 +802,7 @@
     state: AR
     district: 2
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AR03040
@@ -814,7 +814,7 @@
     state: AR
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AR03057
@@ -826,7 +826,7 @@
     state: AR
     district: 3
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0AR03055
@@ -838,7 +838,7 @@
     state: AR
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AR04071
@@ -850,7 +850,7 @@
     state: AR
     district: 4
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AR04055
@@ -862,7 +862,7 @@
     state: AR
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AR04030
@@ -874,7 +874,7 @@
     state: AR
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AR04048
@@ -886,7 +886,7 @@
     state: AR
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AR04063
@@ -898,7 +898,7 @@
     state: AR
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AS00036
