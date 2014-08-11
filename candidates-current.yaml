@@ -238,7 +238,7 @@
     state: AL
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AL01214
@@ -250,7 +250,7 @@
     state: AL
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL01123
@@ -262,7 +262,7 @@
     state: AL
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AL01206
@@ -274,7 +274,7 @@
     state: AL
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL01149
@@ -286,7 +286,7 @@
     state: AL
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL01172
@@ -298,7 +298,7 @@
     state: AL
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL01164
@@ -310,7 +310,7 @@
     state: AL
     district: 1
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL01115
@@ -322,7 +322,7 @@
     state: AL
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL01131
@@ -334,7 +334,7 @@
     state: AL
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL01156
@@ -346,7 +346,7 @@
     state: AL
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AL01180
@@ -358,7 +358,7 @@
     state: AL
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2AL01192
@@ -370,7 +370,7 @@
     state: AL
     district: 1
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL01198
@@ -382,7 +382,7 @@
     state: AL
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2AL01176
@@ -394,7 +394,7 @@
     state: AL
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0AL02087
@@ -406,7 +406,7 @@
     state: AL
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AL02071
@@ -418,7 +418,7 @@
     state: AL
     district: 2
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AL03053
@@ -430,7 +430,7 @@
     state: AL
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2AL03032
@@ -442,7 +442,7 @@
     state: AL
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AL03061
@@ -454,7 +454,7 @@
     state: AL
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6AL04098
@@ -466,7 +466,7 @@
     state: AL
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2AL07165
@@ -478,7 +478,7 @@
     state: AL
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL05082
@@ -490,7 +490,7 @@
     state: AL
     district: 5
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0AL05163
@@ -502,7 +502,7 @@
     state: AL
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AL05074
@@ -514,7 +514,7 @@
     state: AL
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2AL06126
@@ -526,7 +526,7 @@
     state: AL
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL06106
@@ -538,7 +538,7 @@
     state: AL
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL06080
@@ -550,7 +550,7 @@
     state: AL
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL06072
@@ -562,7 +562,7 @@
     state: AL
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL06098
@@ -574,7 +574,7 @@
     state: AL
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AL06122
@@ -586,7 +586,7 @@
     state: AL
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL06114
@@ -598,7 +598,7 @@
     state: AL
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL06130
@@ -610,7 +610,7 @@
     state: AL
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL07088
@@ -622,7 +622,7 @@
     state: AL
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL07096
@@ -634,7 +634,7 @@
     state: AL
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AL07070
@@ -646,7 +646,7 @@
     state: AL
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0AL07086
@@ -658,7 +658,7 @@
     state: AL
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4AR00103
