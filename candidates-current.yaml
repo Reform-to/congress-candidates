@@ -23242,7 +23242,7 @@
     state: SC
     district: 0
     party: REP
-    on_ballot: Y
+    on_ballot: N
 - id: 
     fec: 
     - S4SC00257
@@ -23254,7 +23254,7 @@
     state: SC
     district: 0
     party: DEM
-    on_ballot: Y
+    on_ballot: N
 - id: 
     fec: 
     - S4SC00315
@@ -23266,7 +23266,7 @@
     state: SC
     district: 0
     party: DEM
-    on_ballot: Y
+    on_ballot: N
 - id: 
     fec: 
     - S4SC00380
@@ -23278,7 +23278,7 @@
     state: SC
     district: 0
     party: REP
-    on_ballot: Y
+    on_ballot: N
 - id: 
     fec: 
     - H0SC01352
