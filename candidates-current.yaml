@@ -7822,7 +7822,7 @@
     state: HI
     district: 0
     party: OTH
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4HI00102
@@ -7834,7 +7834,7 @@
     state: HI
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4HI00078
@@ -7858,7 +7858,7 @@
     state: HI
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4HI00144
@@ -7882,7 +7882,7 @@
     state: HI
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S6HI00222
@@ -7894,7 +7894,7 @@
     state: HI
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S0HI00118
@@ -7906,7 +7906,7 @@
     state: HI
     district: 0
     party: OTH
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S0HI00183
@@ -7918,7 +7918,7 @@
     state: HI
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4HI00136
@@ -7942,7 +7942,7 @@
     state: HI
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4HI01100
@@ -7954,7 +7954,7 @@
     state: HI
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0HI01157
@@ -7966,7 +7966,7 @@
     state: HI
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4HI01126
@@ -7978,7 +7978,7 @@
     state: HI
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4HI01183
@@ -7990,7 +7990,7 @@
     state: HI
     district: 1
     party: NNE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4HI01167
@@ -8002,7 +8002,7 @@
     state: HI
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4HI01191
@@ -8014,7 +8014,7 @@
     state: HI
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4HI01175
@@ -8026,7 +8026,7 @@
     state: HI
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4HI01209
@@ -8038,7 +8038,7 @@
     state: HI
     district: 1
     party: NNE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4HI01159
@@ -8050,7 +8050,7 @@
     state: HI
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4HI01134
@@ -8062,7 +8062,7 @@
     state: HI
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4HI01142
@@ -8074,7 +8074,7 @@
     state: HI
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4HI02108
@@ -8086,7 +8086,7 @@
     state: HI
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2HI02524
@@ -8098,7 +8098,7 @@
     state: HI
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2HI02508
@@ -8110,7 +8110,7 @@
     state: HI
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4HI02116
@@ -8122,7 +8122,7 @@
     state: HI
     district: 2
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4IA00087
