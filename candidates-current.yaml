@@ -4534,7 +4534,7 @@
     state: CO
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4CO00346
@@ -4714,7 +4714,7 @@
     state: CO
     district: 2
     party: REP
-    on_ballot: Y
+    on_ballot: N
 - id: 
     fec: 
     - H4CO02094
@@ -4726,7 +4726,7 @@
     state: CO
     district: 2
     party: REP
-    on_ballot: N
+    on_ballot: Y
 - id: 
     fec: 
     - H8CO02137
@@ -4738,7 +4738,7 @@
     state: CO
     district: 2
     party: DEM
-    on_ballot: N
+    on_ballot: Y
 - id: 
     fec: 
     - H4CO02102
@@ -4750,7 +4750,7 @@
     state: CO
     district: 2
     party: REP
-    on_ballot: Y
+    on_ballot: N
 - id: 
     fec: 
     - H2CO03146
