@@ -10594,7 +10594,7 @@
     state: KS
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4KS00143
@@ -10606,7 +10606,7 @@
     state: KS
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S8KS00227
@@ -10618,7 +10618,7 @@
     state: KS
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S6KS00080
@@ -10630,7 +10630,7 @@
     state: KS
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4KS00150
@@ -10642,7 +10642,7 @@
     state: KS
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4KS00135
@@ -10654,7 +10654,7 @@
     state: KS
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S0KS00166
@@ -10666,7 +10666,7 @@
     state: KS
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4KS00127
@@ -10678,7 +10678,7 @@
     state: KS
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4KS00168
@@ -10690,7 +10690,7 @@
     state: KS
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6KS01146
@@ -10702,7 +10702,7 @@
     state: KS
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4KS01059
@@ -10714,7 +10714,7 @@
     state: KS
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4KS01067
@@ -10726,7 +10726,7 @@
     state: KS
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4KS01075
@@ -10738,7 +10738,7 @@
     state: KS
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4KS01042
@@ -10750,7 +10750,7 @@
     state: KS
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4KS02123
@@ -10762,7 +10762,7 @@
     state: KS
     district: 2
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8KS02090
@@ -10774,7 +10774,7 @@
     state: KS
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4KS02131
@@ -10786,7 +10786,7 @@
     state: KS
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4KS02115
@@ -10798,7 +10798,7 @@
     state: KS
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4KS03188
@@ -10810,7 +10810,7 @@
     state: KS
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4KS03170
@@ -10822,7 +10822,7 @@
     state: KS
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0KS03137
@@ -10834,7 +10834,7 @@
     state: KS
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0KS04051
@@ -10846,7 +10846,7 @@
     state: KS
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4KS04111
@@ -10858,7 +10858,7 @@
     state: KS
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4KS04129
@@ -10870,7 +10870,7 @@
     state: KS
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4KY00109
@@ -10882,7 +10882,7 @@
     state: KY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4KY00125
@@ -10894,7 +10894,7 @@
     state: KY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4KY00133
@@ -10906,7 +10906,7 @@
     state: KY
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4KY00091
@@ -10918,7 +10918,7 @@
     state: KY
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4KY00141
@@ -10930,7 +10930,7 @@
     state: KY
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4KY00067
@@ -10942,7 +10942,7 @@
     state: KY
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S0KY00222
@@ -10954,7 +10954,7 @@
     state: KY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4KY00075
@@ -10966,7 +10966,7 @@
     state: KY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S2KY00012
@@ -10978,7 +10978,7 @@
     state: KY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4KY00166
@@ -10990,7 +10990,7 @@
     state: KY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4KY00117
@@ -11002,7 +11002,7 @@
     state: KY
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4KY00158
@@ -11014,7 +11014,7 @@
     state: KY
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4KY00083
@@ -11026,7 +11026,7 @@
     state: KY
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4KY00174
@@ -11038,7 +11038,7 @@
     state: KY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S0KY00198
@@ -11050,7 +11050,7 @@
     state: KY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4KY01065
@@ -11062,7 +11062,7 @@
     state: KY
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4KY01016
@@ -11074,7 +11074,7 @@
     state: KY
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4KY01040
@@ -11086,7 +11086,7 @@
     state: KY
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8KY02031
@@ -11098,7 +11098,7 @@
     state: KY
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4KY02089
@@ -11110,7 +11110,7 @@
     state: KY
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4KY03228
@@ -11122,7 +11122,7 @@
     state: KY
     district: 3
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4KY03210
@@ -11134,7 +11134,7 @@
     state: KY
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4KY03236
@@ -11146,7 +11146,7 @@
     state: KY
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6KY03124
@@ -11158,7 +11158,7 @@
     state: KY
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2KY04121
@@ -11170,7 +11170,7 @@
     state: KY
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8KY06065
@@ -11182,7 +11182,7 @@
     state: KY
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0KY05015
@@ -11194,7 +11194,7 @@
     state: KY
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6KY05111
@@ -11206,7 +11206,7 @@
     state: KY
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2KY05136
@@ -11218,7 +11218,7 @@
     state: KY
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0KY06104
@@ -11230,7 +11230,7 @@
     state: KY
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4KY06148
@@ -11242,7 +11242,7 @@
     state: KY
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4KY06130
@@ -11254,7 +11254,7 @@
     state: KY
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4KY06155
@@ -11266,7 +11266,7 @@
     state: KY
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4KY06163
@@ -11278,7 +11278,7 @@
     state: KY
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4LA00107
