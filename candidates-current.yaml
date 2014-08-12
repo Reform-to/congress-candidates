@@ -4546,7 +4546,7 @@
     state: CO
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S0CO00237
@@ -4558,7 +4558,7 @@
     state: CO
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4CO00395
@@ -4570,7 +4570,7 @@
     state: CO
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4CO00338
@@ -4582,7 +4582,7 @@
     state: CO
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4CO00312
@@ -4594,7 +4594,7 @@
     state: CO
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4CO00320
@@ -4606,7 +4606,7 @@
     state: CO
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4CO00387
@@ -4618,7 +4618,7 @@
     state: CO
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4CO00353
@@ -4630,7 +4630,7 @@
     state: CO
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4CO00379
@@ -4642,7 +4642,7 @@
     state: CO
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S8CO00172
@@ -4654,7 +4654,7 @@
     state: CO
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CO01138
@@ -4666,7 +4666,7 @@
     state: CO
     district: 1
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CO01120
@@ -4678,7 +4678,7 @@
     state: CO
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6CO01141
@@ -4690,7 +4690,7 @@
     state: CO
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CO01112
@@ -4702,7 +4702,7 @@
     state: CO
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CO02110
@@ -4714,7 +4714,7 @@
     state: CO
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CO02094
@@ -4726,7 +4726,7 @@
     state: CO
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8CO02137
@@ -4738,7 +4738,7 @@
     state: CO
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CO02102
@@ -4750,7 +4750,7 @@
     state: CO
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CO03146
@@ -4762,7 +4762,7 @@
     state: CO
     district: 3
     party: UNK
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CO03266
@@ -4774,7 +4774,7 @@
     state: CO
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CO03233
@@ -4786,7 +4786,7 @@
     state: CO
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CO03258
@@ -4798,7 +4798,7 @@
     state: CO
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CO03241
@@ -4810,7 +4810,7 @@
     state: CO
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CO00023
@@ -4822,7 +4822,7 @@
     state: CO
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6CO03139
@@ -4834,7 +4834,7 @@
     state: CO
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CO04090
@@ -4846,7 +4846,7 @@
     state: CO
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CO04132
@@ -4858,7 +4858,7 @@
     state: CO
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CO04082
@@ -4870,7 +4870,7 @@
     state: CO
     district: 4
     party: UNK
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CO04124
@@ -4882,7 +4882,7 @@
     state: CO
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CO04116
@@ -4894,7 +4894,7 @@
     state: CO
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CO04074
@@ -4906,7 +4906,7 @@
     state: CO
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CO04108
@@ -4918,7 +4918,7 @@
     state: CO
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CO05055
@@ -4930,7 +4930,7 @@
     state: CO
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6CO05159
@@ -4942,7 +4942,7 @@
     state: CO
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6CO05191
@@ -4954,7 +4954,7 @@
     state: CO
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CO06095
@@ -4966,7 +4966,7 @@
     state: CO
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8CO06138
@@ -4978,7 +4978,7 @@
     state: CO
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CO06087
@@ -4990,7 +4990,7 @@
     state: CO
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CO07147
@@ -5002,7 +5002,7 @@
     state: CO
     district: 7
     party: OTH
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6CO07023
@@ -5014,7 +5014,7 @@
     state: CO
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CO07036
@@ -5026,7 +5026,7 @@
     state: CO
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CT01189
