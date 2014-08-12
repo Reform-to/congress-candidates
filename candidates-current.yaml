@@ -3802,7 +3802,7 @@
     state: CA
     district: 40
     party: DEM
-    on_ballot: N
+    on_ballot: Y
 - id: 
     fec: 
     - H0CA34099
@@ -3814,7 +3814,7 @@
     state: CA
     district: 40
     party: DEM
-    on_ballot: N
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA41120
@@ -4414,7 +4414,7 @@
     state: CA
     district: 52
     party: DEM
-    on_ballot: N
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA52077
