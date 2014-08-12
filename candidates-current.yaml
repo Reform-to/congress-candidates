@@ -8566,7 +8566,7 @@
     state: ID
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S0ID00099
@@ -8578,7 +8578,7 @@
     state: ID
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4ID00067
@@ -8590,7 +8590,7 @@
     state: ID
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4ID00075
@@ -8602,7 +8602,7 @@
     state: ID
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S8ID00092
@@ -8614,7 +8614,7 @@
     state: ID
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4ID01099
@@ -8626,7 +8626,7 @@
     state: ID
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4ID01107
@@ -8638,7 +8638,7 @@
     state: ID
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4ID01115
@@ -8650,7 +8650,7 @@
     state: ID
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0ID01253
@@ -8662,7 +8662,7 @@
     state: ID
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4ID01123
@@ -8674,7 +8674,7 @@
     state: ID
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2ID01143
@@ -8686,7 +8686,7 @@
     state: ID
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4ID01081
@@ -8698,7 +8698,7 @@
     state: ID
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8ID02064
@@ -8710,7 +8710,7 @@
     state: ID
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4ID02063
@@ -8722,7 +8722,7 @@
     state: ID
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2ID02018
@@ -8734,7 +8734,7 @@
     state: ID
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4IL00461
@@ -8746,7 +8746,7 @@
     state: IL
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S6IL00151
@@ -8758,7 +8758,7 @@
     state: IL
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4IL00453
@@ -8770,7 +8770,7 @@
     state: IL
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4IL00479
@@ -8782,7 +8782,7 @@
     state: IL
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4IL00446
@@ -8794,7 +8794,7 @@
     state: IL
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S2IL00119
@@ -8806,7 +8806,7 @@
     state: IL
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4IL00487
@@ -8818,7 +8818,7 @@
     state: IL
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4IL00420
@@ -8830,7 +8830,7 @@
     state: IL
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4IL00438
@@ -8842,7 +8842,7 @@
     state: IL
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IL01042
@@ -8854,7 +8854,7 @@
     state: IL
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2IL01182
@@ -8866,7 +8866,7 @@
     state: IL
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL02178
@@ -8878,7 +8878,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02327
@@ -8890,7 +8890,7 @@
     state: IL
     district: 2
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02244
@@ -8902,7 +8902,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02269
@@ -8914,7 +8914,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02202
@@ -8926,7 +8926,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02251
@@ -8938,7 +8938,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8IL11113
@@ -8950,7 +8950,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02152
@@ -8962,7 +8962,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02228
@@ -8974,7 +8974,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IL02164
@@ -8986,7 +8986,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02210
@@ -8998,7 +8998,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02319
@@ -9010,7 +9010,7 @@
     state: IL
     district: 2
     party: GRE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IL02172
@@ -9022,7 +9022,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2IL02156
@@ -9034,7 +9034,7 @@
     state: IL
     district: 2
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02350
@@ -9046,7 +9046,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02160
@@ -9058,7 +9058,7 @@
     state: IL
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02293
@@ -9070,7 +9070,7 @@
     state: IL
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02277
@@ -9082,7 +9082,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IL02180
@@ -9094,7 +9094,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02335
@@ -9106,7 +9106,7 @@
     state: IL
     district: 2
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02194
@@ -9118,7 +9118,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02236
@@ -9130,7 +9130,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02285
@@ -9142,7 +9142,7 @@
     state: IL
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8IL02039
@@ -9154,7 +9154,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IL02131
@@ -9166,7 +9166,7 @@
     state: IL
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0IL01095
@@ -9178,7 +9178,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL02301
@@ -9190,7 +9190,7 @@
     state: IL
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL02186
@@ -9202,7 +9202,7 @@
     state: IL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL03093
@@ -9214,7 +9214,7 @@
     state: IL
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2IL11132
@@ -9226,7 +9226,7 @@
     state: IL
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL03085
@@ -9238,7 +9238,7 @@
     state: IL
     district: 3
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL03077
@@ -9250,7 +9250,7 @@
     state: IL
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2IL04145
@@ -9262,7 +9262,7 @@
     state: IL
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL04083
@@ -9274,7 +9274,7 @@
     state: IL
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IL08039
@@ -9286,7 +9286,7 @@
     state: IL
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL04091
@@ -9298,7 +9298,7 @@
     state: IL
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6IL05150
@@ -9310,7 +9310,7 @@
     state: IL
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0IL05096
@@ -9322,7 +9322,7 @@
     state: IL
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2IL05183
@@ -9334,7 +9334,7 @@
     state: IL
     district: 5
     party: GRE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL05155
@@ -9346,7 +9346,7 @@
     state: IL
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL06104
@@ -9358,7 +9358,7 @@
     state: IL
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6IL06117
@@ -9370,7 +9370,7 @@
     state: IL
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL07151
@@ -9382,7 +9382,7 @@
     state: IL
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL07037
@@ -9394,7 +9394,7 @@
     state: IL
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL07169
@@ -9406,7 +9406,7 @@
     state: IL
     district: 7
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL07144
@@ -9418,7 +9418,7 @@
     state: IL
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6IL06141
@@ -9430,7 +9430,7 @@
     state: IL
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL08118
@@ -9442,7 +9442,7 @@
     state: IL
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL08126
@@ -9454,7 +9454,7 @@
     state: IL
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0IL09080
@@ -9466,7 +9466,7 @@
     state: IL
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8IL09067
@@ -9478,7 +9478,7 @@
     state: IL
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL09074
@@ -9490,7 +9490,7 @@
     state: IL
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0IL10302
@@ -9502,7 +9502,7 @@
     state: IL
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL10064
@@ -9514,7 +9514,7 @@
     state: IL
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IL10068
@@ -9526,7 +9526,7 @@
     state: IL
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL11203
@@ -9538,7 +9538,7 @@
     state: IL
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL11211
@@ -9550,7 +9550,7 @@
     state: IL
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8IL14067
@@ -9562,7 +9562,7 @@
     state: IL
     district: 11
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL11237
@@ -9574,7 +9574,7 @@
     state: IL
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL11229
@@ -9586,7 +9586,7 @@
     state: IL
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL11195
@@ -9598,7 +9598,7 @@
     state: IL
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL12060
@@ -9610,7 +9610,7 @@
     state: IL
     district: 12
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2IL12130
@@ -9622,7 +9622,7 @@
     state: IL
     district: 12
     party: GRE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL13225
@@ -9634,7 +9634,7 @@
     state: IL
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IL12122
@@ -9646,7 +9646,7 @@
     state: IL
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL13175
@@ -9658,7 +9658,7 @@
     state: IL
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2IL13120
@@ -9670,7 +9670,7 @@
     state: IL
     district: 13
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL13233
@@ -9682,7 +9682,7 @@
     state: IL
     district: 13
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0IL19048
@@ -9694,7 +9694,7 @@
     state: IL
     district: 13
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL13209
@@ -9706,7 +9706,7 @@
     state: IL
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL13217
@@ -9718,7 +9718,7 @@
     state: IL
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL13191
@@ -9730,7 +9730,7 @@
     state: IL
     district: 13
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL13183
@@ -9742,7 +9742,7 @@
     state: IL
     district: 13
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IL14078
@@ -9754,7 +9754,7 @@
     state: IL
     district: 14
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL14124
@@ -9766,7 +9766,7 @@
     state: IL
     district: 14
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0IL14080
@@ -9778,7 +9778,7 @@
     state: IL
     district: 14
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2IL20042
@@ -9790,7 +9790,7 @@
     state: IL
     district: 15
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL15071
@@ -9802,7 +9802,7 @@
     state: IL
     district: 15
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL16020
@@ -9814,7 +9814,7 @@
     state: IL
     district: 16
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0IL11052
@@ -9826,7 +9826,7 @@
     state: IL
     district: 16
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL00032
@@ -9838,7 +9838,7 @@
     state: IL
     district: 16
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2IL17071
@@ -9850,7 +9850,7 @@
     state: IL
     district: 17
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2IL17089
@@ -9862,7 +9862,7 @@
     state: IL
     district: 17
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0IL17059
@@ -9874,7 +9874,7 @@
     state: IL
     district: 17
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IL18109
@@ -9886,7 +9886,7 @@
     state: IL
     district: 18
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IL18117
@@ -9898,7 +9898,7 @@
     state: IL
     district: 18
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8IL18043
@@ -9910,7 +9910,7 @@
     state: IL
     district: 18
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4IN00113
@@ -9922,7 +9922,7 @@
     state: IN
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8IN01096
@@ -9934,7 +9934,7 @@
     state: IN
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN01012
@@ -9946,7 +9946,7 @@
     state: IN
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN02135
@@ -9958,7 +9958,7 @@
     state: IN
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN02150
@@ -9970,7 +9970,7 @@
     state: IN
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN02143
@@ -9982,7 +9982,7 @@
     state: IN
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IN02238
@@ -9994,7 +9994,7 @@
     state: IN
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0IN02190
@@ -10006,7 +10006,7 @@
     state: IN
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN03117
@@ -10018,7 +10018,7 @@
     state: IN
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IN03152
@@ -10030,7 +10030,7 @@
     state: IN
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN03109
@@ -10042,7 +10042,7 @@
     state: IN
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN03091
@@ -10054,7 +10054,7 @@
     state: IN
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IN03160
@@ -10066,7 +10066,7 @@
     state: IN
     district: 3
     party: UNK
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6IN03187
@@ -10078,7 +10078,7 @@
     state: IN
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0IN03198
@@ -10090,7 +10090,7 @@
     state: IN
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN04214
@@ -10102,7 +10102,7 @@
     state: IN
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN04172
@@ -10114,7 +10114,7 @@
     state: IN
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN04230
@@ -10126,7 +10126,7 @@
     state: IN
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN04222
@@ -10138,7 +10138,7 @@
     state: IN
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN04180
@@ -10150,7 +10150,7 @@
     state: IN
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN04206
@@ -10162,7 +10162,7 @@
     state: IN
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0IN04170
@@ -10174,7 +10174,7 @@
     state: IN
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2IN05082
@@ -10186,7 +10186,7 @@
     state: IN
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN05146
@@ -10198,7 +10198,7 @@
     state: IN
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN05112
@@ -10210,7 +10210,7 @@
     state: IN
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN05120
@@ -10222,7 +10222,7 @@
     state: IN
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN05138
@@ -10234,7 +10234,7 @@
     state: IN
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN05153
@@ -10246,7 +10246,7 @@
     state: IN
     district: 5
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN05104
@@ -10258,7 +10258,7 @@
     state: IN
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IN06239
@@ -10270,7 +10270,7 @@
     state: IN
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0IN02125
@@ -10282,7 +10282,7 @@
     state: IN
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2IN06189
@@ -10294,7 +10294,7 @@
     state: IN
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN06102
@@ -10306,7 +10306,7 @@
     state: IN
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6IN10174
@@ -10318,7 +10318,7 @@
     state: IN
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8IN07184
@@ -10330,7 +10330,7 @@
     state: IN
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN07134
@@ -10342,7 +10342,7 @@
     state: IN
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN07159
@@ -10354,7 +10354,7 @@
     state: IN
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8IN07150
@@ -10366,7 +10366,7 @@
     state: IN
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN07175
@@ -10378,7 +10378,7 @@
     state: IN
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IN07096
@@ -10390,7 +10390,7 @@
     state: IN
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8IN07259
@@ -10402,7 +10402,7 @@
     state: IN
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6IN07337
@@ -10414,7 +10414,7 @@
     state: IN
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN07142
@@ -10426,7 +10426,7 @@
     state: IN
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2IN08136
@@ -10438,7 +10438,7 @@
     state: IN
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0IN08114
@@ -10450,7 +10450,7 @@
     state: IN
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2IN07088
@@ -10462,7 +10462,7 @@
     state: IN
     district: 8
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN08199
@@ -10474,7 +10474,7 @@
     state: IN
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN08207
@@ -10486,7 +10486,7 @@
     state: IN
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN09072
@@ -10498,7 +10498,7 @@
     state: IN
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4IN09122
@@ -10510,7 +10510,7 @@
     state: IN
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN09106
@@ -10522,7 +10522,7 @@
     state: IN
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN09114
@@ -10534,7 +10534,7 @@
     state: IN
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0IN09104
@@ -10546,7 +10546,7 @@
     state: IN
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN09080
@@ -10558,7 +10558,7 @@
     state: IN
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4IN09098
@@ -10570,7 +10570,7 @@
     state: IN
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0IN09070
@@ -10582,7 +10582,7 @@
     state: IN
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4KS00119
