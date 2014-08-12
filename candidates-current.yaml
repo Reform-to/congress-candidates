@@ -11302,7 +11302,7 @@
     state: LA
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4LA00131
@@ -11314,7 +11314,7 @@
     state: LA
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S6LA00227
