@@ -1498,7 +1498,7 @@
     state: CA
     district: 1
     party: REP
-    on_ballot: N
+    on_ballot: Y
 - id: 
     fec: 
     - H4CA01074
