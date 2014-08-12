@@ -15994,7 +15994,7 @@
     state: NC
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NC00246
@@ -16006,7 +16006,7 @@
     state: NC
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NC00147
@@ -16018,7 +16018,7 @@
     state: NC
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NC00261
@@ -16030,7 +16030,7 @@
     state: NC
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NC00253
@@ -16042,7 +16042,7 @@
     state: NC
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NC00139
@@ -16054,7 +16054,7 @@
     state: NC
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NC00204
@@ -16066,7 +16066,7 @@
     state: NC
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NC00170
@@ -16078,7 +16078,7 @@
     state: NC
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S8NC00239
@@ -16090,7 +16090,7 @@
     state: NC
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4NC00154
@@ -16102,7 +16102,7 @@
     state: NC
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S2NC00257
@@ -16114,7 +16114,7 @@
     state: NC
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4NC00196
@@ -16126,7 +16126,7 @@
     state: NC
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NC00188
@@ -16138,7 +16138,7 @@
     state: NC
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC00014
@@ -16150,7 +16150,7 @@
     state: NC
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NC00238
@@ -16162,7 +16162,7 @@
     state: NC
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S2NC00141
@@ -16174,7 +16174,7 @@
     state: NC
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NC00212
@@ -16186,7 +16186,7 @@
     state: NC
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NC00162
@@ -16198,7 +16198,7 @@
     state: NC
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC01046
@@ -16210,7 +16210,7 @@
     state: NC
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC01087
@@ -16222,7 +16222,7 @@
     state: NC
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC01095
@@ -16234,7 +16234,7 @@
     state: NC
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC01103
@@ -16246,7 +16246,7 @@
     state: NC
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2NC01206
@@ -16258,7 +16258,7 @@
     state: NC
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC02127
@@ -16270,7 +16270,7 @@
     state: NC
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC02101
@@ -16282,7 +16282,7 @@
     state: NC
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC02119
@@ -16294,7 +16294,7 @@
     state: NC
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0NC02059
@@ -16306,7 +16306,7 @@
     state: NC
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NC00018
@@ -16318,7 +16318,7 @@
     state: NC
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0NC04147
@@ -16330,7 +16330,7 @@
     state: NC
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8NC03043
@@ -16342,7 +16342,7 @@
     state: NC
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC03059
@@ -16354,7 +16354,7 @@
     state: NC
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2NC01081
@@ -16366,7 +16366,7 @@
     state: NC
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC03034
@@ -16378,7 +16378,7 @@
     state: NC
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC03067
@@ -16390,7 +16390,7 @@
     state: NC
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC03042
@@ -16402,7 +16402,7 @@
     state: NC
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6NC04037
@@ -16414,7 +16414,7 @@
     state: NC
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC04115
@@ -16426,7 +16426,7 @@
     state: NC
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC05245
@@ -16438,7 +16438,7 @@
     state: NC
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC05286
@@ -16450,7 +16450,7 @@
     state: NC
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC05146
@@ -16462,7 +16462,7 @@
     state: NC
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC05260
@@ -16474,7 +16474,7 @@
     state: NC
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC05252
@@ -16486,7 +16486,7 @@
     state: NC
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC05278
@@ -16498,7 +16498,7 @@
     state: NC
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC06078
@@ -16510,7 +16510,7 @@
     state: NC
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC06102
@@ -16522,7 +16522,7 @@
     state: NC
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC06151
@@ -16534,7 +16534,7 @@
     state: NC
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC06094
@@ -16546,7 +16546,7 @@
     state: NC
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC06136
@@ -16558,7 +16558,7 @@
     state: NC
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC06086
@@ -16570,7 +16570,7 @@
     state: NC
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC06144
@@ -16582,7 +16582,7 @@
     state: NC
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC06128
@@ -16594,7 +16594,7 @@
     state: NC
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0NC06175
@@ -16606,7 +16606,7 @@
     state: NC
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6NC13020
@@ -16618,7 +16618,7 @@
     state: NC
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC06110
@@ -16630,7 +16630,7 @@
     state: NC
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC06052
@@ -16642,7 +16642,7 @@
     state: NC
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC06060
@@ -16654,7 +16654,7 @@
     state: NC
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC07084
@@ -16666,7 +16666,7 @@
     state: NC
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC07068
@@ -16678,7 +16678,7 @@
     state: NC
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC07100
@@ -16690,7 +16690,7 @@
     state: NC
     district: 7
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC07092
@@ -16702,7 +16702,7 @@
     state: NC
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2NC07096
@@ -16714,7 +16714,7 @@
     state: NC
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC07076
@@ -16726,7 +16726,7 @@
     state: NC
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2NC08219
@@ -16738,7 +16738,7 @@
     state: NC
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NC08185
@@ -16750,7 +16750,7 @@
     state: NC
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC09130
@@ -16762,7 +16762,7 @@
     state: NC
     district: 9
     party: UNK
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2NC09134
@@ -16774,7 +16774,7 @@
     state: NC
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NC09050
@@ -16786,7 +16786,7 @@
     state: NC
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC09148
@@ -16798,7 +16798,7 @@
     state: NC
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC10096
@@ -16810,7 +16810,7 @@
     state: NC
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC10104
@@ -16822,7 +16822,7 @@
     state: NC
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC10047
@@ -16834,7 +16834,7 @@
     state: NC
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC11086
@@ -16846,7 +16846,7 @@
     state: NC
     district: 11
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NC11080
@@ -16858,7 +16858,7 @@
     state: NC
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NC11130
@@ -16870,7 +16870,7 @@
     state: NC
     district: 11
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC11078
@@ -16882,7 +16882,7 @@
     state: NC
     district: 11
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC12100
@@ -16894,7 +16894,7 @@
     state: NC
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC12076
@@ -16906,7 +16906,7 @@
     state: NC
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC12050
@@ -16918,7 +16918,7 @@
     state: NC
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC12134
@@ -16930,7 +16930,7 @@
     state: NC
     district: 12
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC12118
@@ -16942,7 +16942,7 @@
     state: NC
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC12084
@@ -16954,7 +16954,7 @@
     state: NC
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC12126
@@ -16966,7 +16966,7 @@
     state: NC
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC12068
@@ -16978,7 +16978,7 @@
     state: NC
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC12092
@@ -16990,7 +16990,7 @@
     state: NC
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC12159
@@ -17002,7 +17002,7 @@
     state: NC
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC12142
@@ -17014,7 +17014,7 @@
     state: NC
     district: 12
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC13033
@@ -17026,7 +17026,7 @@
     state: NC
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC13041
@@ -17038,7 +17038,7 @@
     state: NC
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NC13025
@@ -17050,7 +17050,7 @@
     state: NC
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2NC13110
@@ -17062,7 +17062,7 @@
     state: NC
     district: 13
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NC13058
@@ -17074,7 +17074,7 @@
     state: NC
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0ND01026
@@ -17086,7 +17086,7 @@
     state: ND
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4ND01028
@@ -17098,7 +17098,7 @@
     state: ND
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4ND00046
@@ -17110,7 +17110,7 @@
     state: ND
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4NE00165
@@ -17770,7 +17770,7 @@
     state: NJ
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S8NJ00012
@@ -17782,7 +17782,7 @@
     state: NJ
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4NJ00185
@@ -17794,7 +17794,7 @@
     state: NJ
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4NJ00268
@@ -17806,7 +17806,7 @@
     state: NJ
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NJ00235
@@ -17818,7 +17818,7 @@
     state: NJ
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NJ00292
@@ -17830,7 +17830,7 @@
     state: NJ
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NJ00201
@@ -17842,7 +17842,7 @@
     state: NJ
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S2NJ00460
@@ -17854,7 +17854,7 @@
     state: NJ
     district: 0
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NJ00219
@@ -17866,7 +17866,7 @@
     state: NJ
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NJ00250
@@ -17878,7 +17878,7 @@
     state: NJ
     district: 0
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NJ00227
@@ -17890,7 +17890,7 @@
     state: NJ
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NJ00276
@@ -17902,7 +17902,7 @@
     state: NJ
     district: 0
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S6NJ00263
@@ -17914,7 +17914,7 @@
     state: NJ
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NJ00169
@@ -17926,7 +17926,7 @@
     state: NJ
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S2NJ00361
@@ -17938,7 +17938,7 @@
     state: NJ
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NJ00243
@@ -17950,7 +17950,7 @@
     state: NJ
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S8NJ00285
@@ -17962,7 +17962,7 @@
     state: NJ
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NJ00284
@@ -17974,7 +17974,7 @@
     state: NJ
     district: 0
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NJ00193
@@ -17986,7 +17986,7 @@
     state: NJ
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NJ00300
@@ -17998,7 +17998,7 @@
     state: NJ
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ01100
@@ -18010,7 +18010,7 @@
     state: NJ
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ01092
@@ -18022,7 +18022,7 @@
     state: NJ
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ01118
@@ -18034,7 +18034,7 @@
     state: NJ
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ01076
@@ -18046,7 +18046,7 @@
     state: NJ
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0NJ01165
@@ -18058,7 +18058,7 @@
     state: NJ
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ01126
@@ -18070,7 +18070,7 @@
     state: NJ
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ01134
@@ -18082,7 +18082,7 @@
     state: NJ
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ01084
@@ -18094,7 +18094,7 @@
     state: NJ
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ01142
@@ -18106,7 +18106,7 @@
     state: NJ
     district: 1
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NJ02128
@@ -18118,7 +18118,7 @@
     state: NJ
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ02157
@@ -18130,7 +18130,7 @@
     state: NJ
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ02140
@@ -18142,7 +18142,7 @@
     state: NJ
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NJ02037
@@ -18154,7 +18154,7 @@
     state: NJ
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ03106
@@ -18166,7 +18166,7 @@
     state: NJ
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ03148
@@ -18178,7 +18178,7 @@
     state: NJ
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ00011
@@ -18190,7 +18190,7 @@
     state: NJ
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ03122
@@ -18202,7 +18202,7 @@
     state: NJ
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0NJ04086
@@ -18214,7 +18214,7 @@
     state: NJ
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8NJ09088
@@ -18226,7 +18226,7 @@
     state: NJ
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ03130
@@ -18238,7 +18238,7 @@
     state: NJ
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ03155
@@ -18250,7 +18250,7 @@
     state: NJ
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ04112
@@ -18262,7 +18262,7 @@
     state: NJ
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ04120
@@ -18274,7 +18274,7 @@
     state: NJ
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8NJ04014
@@ -18286,7 +18286,7 @@
     state: NJ
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ05135
@@ -18298,7 +18298,7 @@
     state: NJ
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8NJ05052
@@ -18310,7 +18310,7 @@
     state: NJ
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ05143
@@ -18322,7 +18322,7 @@
     state: NJ
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2NJ05279
@@ -18334,7 +18334,7 @@
     state: NJ
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2NJ07168
@@ -18346,7 +18346,7 @@
     state: NJ
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ06117
@@ -18358,7 +18358,7 @@
     state: NJ
     district: 6
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0NJ06164
@@ -18370,7 +18370,7 @@
     state: NJ
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8NJ03073
@@ -18382,7 +18382,7 @@
     state: NJ
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ06109
@@ -18394,7 +18394,7 @@
     state: NJ
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ07099
@@ -18406,7 +18406,7 @@
     state: NJ
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6NJ12136
@@ -18418,7 +18418,7 @@
     state: NJ
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0NJ07196
@@ -18430,7 +18430,7 @@
     state: NJ
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6NJ13191
@@ -18442,7 +18442,7 @@
     state: NJ
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ08071
@@ -18454,7 +18454,7 @@
     state: NJ
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6NJ08118
@@ -18466,7 +18466,7 @@
     state: NJ
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ09111
@@ -18478,7 +18478,7 @@
     state: NJ
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ09095
@@ -18490,7 +18490,7 @@
     state: NJ
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ10101
@@ -18502,7 +18502,7 @@
     state: NJ
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ10085
@@ -18514,7 +18514,7 @@
     state: NJ
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2NJ10154
@@ -18526,7 +18526,7 @@
     state: NJ
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0NJ10174
@@ -18538,7 +18538,7 @@
     state: NJ
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ10093
@@ -18550,7 +18550,7 @@
     state: NJ
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ11117
@@ -18562,7 +18562,7 @@
     state: NJ
     district: 11
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ11091
@@ -18574,7 +18574,7 @@
     state: NJ
     district: 11
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NJ05014
@@ -18586,7 +18586,7 @@
     state: NJ
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ11125
@@ -18598,7 +18598,7 @@
     state: NJ
     district: 11
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ11109
@@ -18610,7 +18610,7 @@
     state: NJ
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6NJ06187
@@ -18622,7 +18622,7 @@
     state: NJ
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ12149
@@ -18634,7 +18634,7 @@
     state: NJ
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ12123
@@ -18646,7 +18646,7 @@
     state: NJ
     district: 12
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NJ12131
@@ -18658,7 +18658,7 @@
     state: NJ
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NJ12156
@@ -18670,7 +18670,7 @@
     state: NJ
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NM00092
@@ -18682,7 +18682,7 @@
     state: NM
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S8NM00184
@@ -18694,7 +18694,7 @@
     state: NM
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4NM00100
@@ -18706,7 +18706,7 @@
     state: NM
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NM01116
@@ -18718,7 +18718,7 @@
     state: NM
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8NM01257
@@ -18730,7 +18730,7 @@
     state: NM
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NM01108
@@ -18742,7 +18742,7 @@
     state: NM
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NM01124
@@ -18754,7 +18754,7 @@
     state: NM
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NM02064
@@ -18766,7 +18766,7 @@
     state: NM
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NM02072
@@ -18778,7 +18778,7 @@
     state: NM
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NM02126
@@ -18790,7 +18790,7 @@
     state: NM
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NM03070
@@ -18802,7 +18802,7 @@
     state: NM
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2NM03157
@@ -18814,7 +18814,7 @@
     state: NM
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8NM03196
@@ -18826,7 +18826,7 @@
     state: NM
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NV01187
@@ -19186,7 +19186,7 @@
     state: NY
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2NY01067
@@ -19198,7 +19198,7 @@
     state: NY
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0NY01137
@@ -19210,7 +19210,7 @@
     state: NY
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY01105
@@ -19222,7 +19222,7 @@
     state: NY
     district: 1
     party: GRE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8NY01148
@@ -19234,7 +19234,7 @@
     state: NY
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NY03089
@@ -19246,7 +19246,7 @@
     state: NY
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8NY04050
@@ -19258,7 +19258,7 @@
     state: NY
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY02061
@@ -19270,7 +19270,7 @@
     state: NY
     district: 2
     party: GRE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0NY02085
@@ -19282,7 +19282,7 @@
     state: NY
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0NY02176
@@ -19294,7 +19294,7 @@
     state: NY
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY03077
@@ -19306,7 +19306,7 @@
     state: NY
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY04067
@@ -19318,7 +19318,7 @@
     state: NY
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0NY04099
@@ -19330,7 +19330,7 @@
     state: NY
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY04091
@@ -19342,7 +19342,7 @@
     state: NY
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY04075
@@ -19354,7 +19354,7 @@
     state: NY
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY04117
@@ -19366,7 +19366,7 @@
     state: NY
     district: 4
     party: CON
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0NY04057
@@ -19378,7 +19378,7 @@
     state: NY
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY04083
@@ -19390,7 +19390,7 @@
     state: NY
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY04109
@@ -19402,7 +19402,7 @@
     state: NY
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY07011
@@ -19414,7 +19414,7 @@
     state: NY
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY05098
@@ -19426,7 +19426,7 @@
     state: NY
     district: 5
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2NY05092
@@ -19438,7 +19438,7 @@
     state: NY
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8NY06048
@@ -19450,7 +19450,7 @@
     state: NY
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY05080
@@ -19462,7 +19462,7 @@
     state: NY
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY05106
@@ -19474,7 +19474,7 @@
     state: NY
     district: 5
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY06021
@@ -19486,7 +19486,7 @@
     state: NY
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2NY06116
@@ -19498,7 +19498,7 @@
     state: NY
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NY12148
@@ -19510,7 +19510,7 @@
     state: NY
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY07110
@@ -19522,7 +19522,7 @@
     state: NY
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY07102
@@ -19534,7 +19534,7 @@
     state: NY
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6NY12115
@@ -19546,7 +19546,7 @@
     state: NY
     district: 7
     party: CRV
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NY00010
@@ -19558,7 +19558,7 @@
     state: NY
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NY08120
@@ -19570,7 +19570,7 @@
     state: NY
     district: 8
     party: CRV
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NY10092
@@ -19582,7 +19582,7 @@
     state: NY
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NY09110
@@ -19594,7 +19594,7 @@
     state: NY
     district: 9
     party: CRV
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY11138
@@ -19606,7 +19606,7 @@
     state: NY
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NY10100
@@ -19618,7 +19618,7 @@
     state: NY
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2NY17071
@@ -19630,7 +19630,7 @@
     state: NY
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY10106
@@ -19642,7 +19642,7 @@
     state: NY
     district: 10
     party: CRV
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NY13062
@@ -19654,7 +19654,7 @@
     state: NY
     district: 11
     party: GRE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0NY13074
@@ -19666,7 +19666,7 @@
     state: NY
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8NY13069
@@ -19678,7 +19678,7 @@
     state: NY
     district: 11
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY11179
@@ -19690,7 +19690,7 @@
     state: NY
     district: 11
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY12052
@@ -19702,7 +19702,7 @@
     state: NY
     district: 12
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NY14037
@@ -19714,7 +19714,7 @@
     state: NY
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NY13096
@@ -19726,7 +19726,7 @@
     state: NY
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY13084
@@ -19738,7 +19738,7 @@
     state: NY
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY15071
@@ -19750,7 +19750,7 @@
     state: NY
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6NY19029
@@ -19762,7 +19762,7 @@
     state: NY
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY13076
@@ -19774,7 +19774,7 @@
     state: NY
     district: 13
     party: GRE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY13068
@@ -19786,7 +19786,7 @@
     state: NY
     district: 13
     party: OTH
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY13050
@@ -19798,7 +19798,7 @@
     state: NY
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8NY07046
@@ -19810,7 +19810,7 @@
     state: NY
     district: 14
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY14090
@@ -19822,7 +19822,7 @@
     state: NY
     district: 14
     party: CRV
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY15139
@@ -19834,7 +19834,7 @@
     state: NY
     district: 15
     party: GRE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY15113
@@ -19846,7 +19846,7 @@
     state: NY
     district: 15
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY15121
@@ -19858,7 +19858,7 @@
     state: NY
     district: 15
     party: CRV
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0NY18065
@@ -19870,7 +19870,7 @@
     state: NY
     district: 15
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY10098
@@ -19882,7 +19882,7 @@
     state: NY
     district: 15
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8NY19058
@@ -19894,7 +19894,7 @@
     state: NY
     district: 16
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY17135
@@ -19906,7 +19906,7 @@
     state: NY
     district: 17
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8NY20056
@@ -19918,7 +19918,7 @@
     state: NY
     district: 17
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY18091
@@ -19930,7 +19930,7 @@
     state: NY
     district: 18
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0NY19139
@@ -19942,7 +19942,7 @@
     state: NY
     district: 18
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2NY22139
@@ -19954,7 +19954,7 @@
     state: NY
     district: 18
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY18109
@@ -19966,7 +19966,7 @@
     state: NY
     district: 18
     party: ""
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY19115
@@ -19978,7 +19978,7 @@
     state: NY
     district: 19
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0NY20095
@@ -19990,7 +19990,7 @@
     state: NY
     district: 19
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY20121
@@ -20002,7 +20002,7 @@
     state: NY
     district: 20
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8NY21203
@@ -20014,7 +20014,7 @@
     state: NY
     district: 20
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0NY23057
@@ -20026,7 +20026,7 @@
     state: NY
     district: 21
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY21111
@@ -20038,7 +20038,7 @@
     state: NY
     district: 21
     party: GRE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY21129
@@ -20050,7 +20050,7 @@
     state: NY
     district: 21
     party: GRE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY21087
@@ -20062,7 +20062,7 @@
     state: NY
     district: 21
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY21095
@@ -20074,7 +20074,7 @@
     state: NY
     district: 21
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY21079
@@ -20086,7 +20086,7 @@
     state: NY
     district: 21
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY21103
@@ -20098,7 +20098,7 @@
     state: NY
     district: 21
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8NY24066
@@ -20110,7 +20110,7 @@
     state: NY
     district: 22
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY22051
@@ -20122,7 +20122,7 @@
     state: NY
     district: 22
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY22044
@@ -20134,7 +20134,7 @@
     state: NY
     district: 22
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0NY29054
@@ -20146,7 +20146,7 @@
     state: NY
     district: 23
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY23067
@@ -20158,7 +20158,7 @@
     state: NY
     district: 23
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY24065
@@ -20170,7 +20170,7 @@
     state: NY
     district: 24
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY24099
@@ -20182,7 +20182,7 @@
     state: NY
     district: 24
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY24073
@@ -20194,7 +20194,7 @@
     state: NY
     district: 24
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY24107
@@ -20206,7 +20206,7 @@
     state: NY
     district: 24
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY24081
@@ -20218,7 +20218,7 @@
     state: NY
     district: 24
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6NY25125
@@ -20230,7 +20230,7 @@
     state: NY
     district: 24
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY24057
@@ -20242,7 +20242,7 @@
     state: NY
     district: 24
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY29098
@@ -20254,7 +20254,7 @@
     state: NY
     district: 25
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY25047
@@ -20266,7 +20266,7 @@
     state: NY
     district: 25
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6NY03031
@@ -20278,7 +20278,7 @@
     state: NY
     district: 25
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0NY28114
@@ -20290,7 +20290,7 @@
     state: NY
     district: 26
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4NY27076
@@ -20302,7 +20302,7 @@
     state: NY
     district: 26
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY26052
@@ -20314,7 +20314,7 @@
     state: NY
     district: 26
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8NY29032
@@ -20326,7 +20326,7 @@
     state: NY
     district: 27
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NY27118
@@ -20338,7 +20338,7 @@
     state: NY
     district: 27
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8OH01043
@@ -20350,7 +20350,7 @@
     state: OH
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2OH02093
@@ -20362,7 +20362,7 @@
     state: OH
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH01067
@@ -20374,7 +20374,7 @@
     state: OH
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH02131
@@ -20386,7 +20386,7 @@
     state: OH
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH02149
@@ -20398,7 +20398,7 @@
     state: OH
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH02164
@@ -20410,7 +20410,7 @@
     state: OH
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH02156
@@ -20422,7 +20422,7 @@
     state: OH
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2OH02085
@@ -20434,7 +20434,7 @@
     state: OH
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH03071
@@ -20446,7 +20446,7 @@
     state: OH
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0OH15099
@@ -20458,7 +20458,7 @@
     state: OH
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2OH03125
@@ -20470,7 +20470,7 @@
     state: OH
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH03063
@@ -20482,7 +20482,7 @@
     state: OH
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2OH03133
@@ -20494,7 +20494,7 @@
     state: OH
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH03089
@@ -20506,7 +20506,7 @@
     state: OH
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH04046
@@ -20518,7 +20518,7 @@
     state: OH
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6OH04082
@@ -20530,7 +20530,7 @@
     state: OH
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2OH05039
@@ -20542,7 +20542,7 @@
     state: OH
     district: 5
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH05043
@@ -20554,7 +20554,7 @@
     state: OH
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8OH05036
@@ -20566,7 +20566,7 @@
     state: OH
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH06074
@@ -20578,7 +20578,7 @@
     state: OH
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH06082
@@ -20590,7 +20590,7 @@
     state: OH
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0OH06189
@@ -20602,7 +20602,7 @@
     state: OH
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH06090
@@ -20614,7 +20614,7 @@
     state: OH
     district: 6
     party: GRE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8OH16058
@@ -20650,7 +20650,7 @@
     state: OH
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH07049
@@ -20662,7 +20662,7 @@
     state: OH
     district: 7
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH08104
@@ -20674,7 +20674,7 @@
     state: OH
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0OH08029
@@ -20686,7 +20686,7 @@
     state: OH
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0OH08128
@@ -20698,7 +20698,7 @@
     state: OH
     district: 8
     party: CON
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH08096
@@ -20710,7 +20710,7 @@
     state: OH
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH08054
@@ -20722,7 +20722,7 @@
     state: OH
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH08088
@@ -20734,7 +20734,7 @@
     state: OH
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH08047
@@ -20746,7 +20746,7 @@
     state: OH
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH08070
@@ -20758,7 +20758,7 @@
     state: OH
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH08062
@@ -20770,7 +20770,7 @@
     state: OH
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH09086
@@ -20782,7 +20782,7 @@
     state: OH
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH09094
@@ -20794,7 +20794,7 @@
     state: OH
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2OH09031
@@ -20806,7 +20806,7 @@
     state: OH
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH09102
@@ -20818,7 +20818,7 @@
     state: OH
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH09110
@@ -20830,7 +20830,7 @@
     state: OH
     district: 9
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0OH07104
@@ -20842,7 +20842,7 @@
     state: OH
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH10159
@@ -20854,7 +20854,7 @@
     state: OH
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH10142
@@ -20866,7 +20866,7 @@
     state: OH
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0OH08136
@@ -20878,7 +20878,7 @@
     state: OH
     district: 10
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH10167
@@ -20890,7 +20890,7 @@
     state: OH
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2OH03067
@@ -20902,7 +20902,7 @@
     state: OH
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8OH11141
@@ -20914,7 +20914,7 @@
     state: OH
     district: 11
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH11066
@@ -20926,7 +20926,7 @@
     state: OH
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH12064
@@ -20938,7 +20938,7 @@
     state: OH
     district: 12
     party: GRE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH12072
@@ -20950,7 +20950,7 @@
     state: OH
     district: 12
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0OH12062
@@ -20962,7 +20962,7 @@
     state: OH
     district: 12
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH00028
@@ -20974,7 +20974,7 @@
     state: OH
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8OH11133
@@ -20998,7 +20998,7 @@
     state: OH
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2OH14064
@@ -21010,7 +21010,7 @@
     state: OH
     district: 14
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH14110
@@ -21022,7 +21022,7 @@
     state: OH
     district: 14
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8OH14103
@@ -21034,7 +21034,7 @@
     state: OH
     district: 14
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH14102
@@ -21046,7 +21046,7 @@
     state: OH
     district: 14
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH15067
@@ -21058,7 +21058,7 @@
     state: OH
     district: 15
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8OH15076
@@ -21070,7 +21070,7 @@
     state: OH
     district: 15
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2OH15095
@@ -21082,7 +21082,7 @@
     state: OH
     district: 15
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH16115
@@ -21094,7 +21094,7 @@
     state: OH
     district: 16
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH16107
@@ -21106,7 +21106,7 @@
     state: OH
     district: 16
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH16099
@@ -21118,7 +21118,7 @@
     state: OH
     district: 16
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OH09078
@@ -21130,7 +21130,7 @@
     state: OH
     district: 16
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0OH16097
@@ -21142,7 +21142,7 @@
     state: OH
     district: 16
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OK05082
@@ -21154,7 +21154,7 @@
     state: OK
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OK00372
@@ -21166,7 +21166,7 @@
     state: OK
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OK00240
@@ -21178,7 +21178,7 @@
     state: OK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OK00364
@@ -21190,7 +21190,7 @@
     state: OK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OK00281
@@ -21202,7 +21202,7 @@
     state: OK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OK00331
@@ -21214,7 +21214,7 @@
     state: OK
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OK00224
@@ -21226,7 +21226,7 @@
     state: OK
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4OK00356
@@ -21238,7 +21238,7 @@
     state: OK
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OK00083
@@ -21250,7 +21250,7 @@
     state: OK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4OK00307
@@ -21262,7 +21262,7 @@
     state: OK
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OK00232
@@ -21274,7 +21274,7 @@
     state: OK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OK00315
@@ -21286,7 +21286,7 @@
     state: OK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OK00265
@@ -21298,7 +21298,7 @@
     state: OK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OK00323
@@ -21310,7 +21310,7 @@
     state: OK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S8OK00241
@@ -21322,7 +21322,7 @@
     state: OK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S2OK00095
@@ -21334,7 +21334,7 @@
     state: OK
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OK00257
@@ -21346,7 +21346,7 @@
     state: OK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OK00216
@@ -21358,7 +21358,7 @@
     state: OK
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4OK00273
@@ -21370,7 +21370,7 @@
     state: OK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OK00349
@@ -21382,7 +21382,7 @@
     state: OK
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4OK00299
@@ -21394,7 +21394,7 @@
     state: OK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2OK01143
@@ -21406,7 +21406,7 @@
     state: OK
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OK02162
@@ -21418,7 +21418,7 @@
     state: OK
     district: 2
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2OK02166
@@ -21430,7 +21430,7 @@
     state: OK
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OK02154
@@ -21442,7 +21442,7 @@
     state: OK
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OK02170
@@ -21454,7 +21454,7 @@
     state: OK
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2OK02083
@@ -21466,7 +21466,7 @@
     state: OK
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OK02147
@@ -21478,7 +21478,7 @@
     state: OK
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OK03046
@@ -21490,7 +21490,7 @@
     state: OK
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OK06056
@@ -21502,7 +21502,7 @@
     state: OK
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2OK03081
@@ -21514,7 +21514,7 @@
     state: OK
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8OK03047
@@ -21526,7 +21526,7 @@
     state: OK
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2OK04055
@@ -21538,7 +21538,7 @@
     state: OK
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OK04143
@@ -21550,7 +21550,7 @@
     state: OK
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OK04150
@@ -21562,7 +21562,7 @@
     state: OK
     district: 4
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OK04135
@@ -21574,7 +21574,7 @@
     state: OK
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OK05066
@@ -21586,7 +21586,7 @@
     state: OK
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OK05173
@@ -21598,7 +21598,7 @@
     state: OK
     district: 5
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OK05181
@@ -21610,7 +21610,7 @@
     state: OK
     district: 5
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OK05090
@@ -21706,7 +21706,7 @@
     state: OK
     district: 5
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OK05132
@@ -21754,7 +21754,7 @@
     state: OR
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OR00172
@@ -21766,7 +21766,7 @@
     state: OR
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S0OR00238
@@ -21778,7 +21778,7 @@
     state: OR
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OR00180
@@ -21790,7 +21790,7 @@
     state: OR
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OR00206
@@ -21802,7 +21802,7 @@
     state: OR
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OR00065
@@ -21814,7 +21814,7 @@
     state: OR
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OR00248
@@ -21826,7 +21826,7 @@
     state: OR
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OR00164
@@ -21838,7 +21838,7 @@
     state: OR
     district: 0
     party: UNK
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S8OR00207
@@ -21850,7 +21850,7 @@
     state: OR
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4OR00222
@@ -21862,7 +21862,7 @@
     state: OR
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OR00156
@@ -21874,7 +21874,7 @@
     state: OR
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OR00230
@@ -21886,7 +21886,7 @@
     state: OR
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OR00198
@@ -21898,7 +21898,7 @@
     state: OR
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2OR01133
@@ -21910,7 +21910,7 @@
     state: OR
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2OR01190
@@ -21922,7 +21922,7 @@
     state: OR
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OR02186
@@ -21934,7 +21934,7 @@
     state: OR
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2OR01216
@@ -21946,7 +21946,7 @@
     state: OR
     district: 1
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OR01113
@@ -21958,7 +21958,7 @@
     state: OR
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OR02178
@@ -21970,7 +21970,7 @@
     state: OR
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OR02202
@@ -21982,7 +21982,7 @@
     state: OR
     district: 2
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OR02160
@@ -21994,7 +21994,7 @@
     state: OR
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OR02210
@@ -22006,7 +22006,7 @@
     state: OR
     district: 2
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OR02194
@@ -22018,7 +22018,7 @@
     state: OR
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2OR02149
@@ -22030,7 +22030,7 @@
     state: OR
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6OR02116
@@ -22042,7 +22042,7 @@
     state: OR
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6OR03064
@@ -22054,7 +22054,7 @@
     state: OR
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OR03101
@@ -22066,7 +22066,7 @@
     state: OR
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OR03119
@@ -22078,7 +22078,7 @@
     state: OR
     district: 3
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8OR03052
@@ -22090,7 +22090,7 @@
     state: OR
     district: 3
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8OR04134
@@ -22114,7 +22114,7 @@
     state: OR
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0OR04081
@@ -22126,7 +22126,7 @@
     state: OR
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OR05254
@@ -22138,7 +22138,7 @@
     state: OR
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0OR05062
@@ -22162,7 +22162,7 @@
     state: OR
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OR05213
@@ -22174,7 +22174,7 @@
     state: OR
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OR05247
@@ -22198,7 +22198,7 @@
     state: OR
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OR05239
@@ -22210,7 +22210,7 @@
     state: OR
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4PA00022
