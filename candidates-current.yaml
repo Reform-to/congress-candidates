@@ -15562,7 +15562,7 @@
     state: MS
     district: 2
     party: DEM
-    on_ballot: N
+    on_ballot: Y
 - id: 
     fec: 
     - H4MS02043
