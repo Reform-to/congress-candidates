@@ -27658,7 +27658,7 @@
     state: VA
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4VA00171
