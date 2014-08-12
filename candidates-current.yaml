@@ -24886,7 +24886,7 @@
     state: TN
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4TN09063
@@ -24898,7 +24898,7 @@
     state: TN
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4TX00516
