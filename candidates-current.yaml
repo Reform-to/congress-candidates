@@ -27610,7 +27610,7 @@
     state: VA
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4VA00155
@@ -27622,7 +27622,7 @@
     state: VA
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4VA00148
@@ -27634,7 +27634,7 @@
     state: VA
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4VA00130
@@ -27646,7 +27646,7 @@
     state: VA
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA00049
@@ -27670,7 +27670,7 @@
     state: VA
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4VA00189
@@ -27682,7 +27682,7 @@
     state: VA
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S6VA00093
@@ -27694,7 +27694,7 @@
     state: VA
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA01070
@@ -27706,7 +27706,7 @@
     state: VA
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA01062
@@ -27718,7 +27718,7 @@
     state: VA
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8VA01147
@@ -27730,7 +27730,7 @@
     state: VA
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA02045
@@ -27742,7 +27742,7 @@
     state: VA
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA02052
@@ -27754,7 +27754,7 @@
     state: VA
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0VA02084
@@ -27766,7 +27766,7 @@
     state: VA
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA03043
@@ -27778,7 +27778,7 @@
     state: VA
     district: 3
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6VA01117
@@ -27790,7 +27790,7 @@
     state: VA
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA04033
@@ -27802,7 +27802,7 @@
     state: VA
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2VA04052
@@ -27814,7 +27814,7 @@
     state: VA
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA05048
@@ -27826,7 +27826,7 @@
     state: VA
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA05030
@@ -27838,7 +27838,7 @@
     state: VA
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0VA05095
@@ -27850,7 +27850,7 @@
     state: VA
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA06012
@@ -27874,7 +27874,7 @@
     state: VA
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA06020
@@ -27886,7 +27886,7 @@
     state: VA
     district: 6
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA07143
@@ -27898,7 +27898,7 @@
     state: VA
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0VA07042
@@ -27910,7 +27910,7 @@
     state: VA
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA07135
@@ -27922,7 +27922,7 @@
     state: VA
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA07127
@@ -27934,7 +27934,7 @@
     state: VA
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA07150
@@ -27946,7 +27946,7 @@
     state: VA
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA08315
@@ -27958,7 +27958,7 @@
     state: VA
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA08331
@@ -27970,7 +27970,7 @@
     state: VA
     district: 8
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA08224
@@ -27982,7 +27982,7 @@
     state: VA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA08265
@@ -27994,7 +27994,7 @@
     state: VA
     district: 8
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA08257
@@ -28006,7 +28006,7 @@
     state: VA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA08208
@@ -28018,7 +28018,7 @@
     state: VA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA08182
@@ -28030,7 +28030,7 @@
     state: VA
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA08240
@@ -28042,7 +28042,7 @@
     state: VA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA08273
@@ -28054,7 +28054,7 @@
     state: VA
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA00031
@@ -28066,7 +28066,7 @@
     state: VA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA08216
@@ -28078,7 +28078,7 @@
     state: VA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA08307
@@ -28090,7 +28090,7 @@
     state: VA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA08323
@@ -28102,7 +28102,7 @@
     state: VA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA08281
@@ -28114,7 +28114,7 @@
     state: VA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA08232
@@ -28126,7 +28126,7 @@
     state: VA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA08299
@@ -28138,7 +28138,7 @@
     state: VA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2VA08103
@@ -28150,7 +28150,7 @@
     state: VA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA08190
@@ -28162,7 +28162,7 @@
     state: VA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0VA09055
@@ -28174,7 +28174,7 @@
     state: VA
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8VA01089
@@ -28186,7 +28186,7 @@
     state: VA
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA10063
@@ -28198,7 +28198,7 @@
     state: VA
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA10089
@@ -28210,7 +28210,7 @@
     state: VA
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA10071
@@ -28222,7 +28222,7 @@
     state: VA
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA10097
@@ -28234,7 +28234,7 @@
     state: VA
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA10055
@@ -28246,7 +28246,7 @@
     state: VA
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA10121
@@ -28258,7 +28258,7 @@
     state: VA
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0VA10129
@@ -28270,7 +28270,7 @@
     state: VA
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA10105
@@ -28282,7 +28282,7 @@
     state: VA
     district: 10
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0VA10145
@@ -28294,7 +28294,7 @@
     state: VA
     district: 10
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA10139
@@ -28306,7 +28306,7 @@
     state: VA
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA10113
@@ -28318,7 +28318,7 @@
     state: VA
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8VA11062
@@ -28330,7 +28330,7 @@
     state: VA
     district: 11
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2VA11164
@@ -28342,7 +28342,7 @@
     state: VA
     district: 11
     party: GRE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA11079
@@ -28354,7 +28354,7 @@
     state: VA
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2VA11172
@@ -28366,7 +28366,7 @@
     state: VA
     district: 11
     party: UNK
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA11095
@@ -28378,7 +28378,7 @@
     state: VA
     district: 11
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VA11111
@@ -28390,7 +28390,7 @@
     state: VA
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA11061
@@ -28402,7 +28402,7 @@
     state: VA
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VA11087
@@ -28414,7 +28414,7 @@
     state: VA
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0VI00037
@@ -28534,7 +28534,7 @@
     state: WA
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WA01241
@@ -28558,7 +28558,7 @@
     state: WA
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WA01233
@@ -28630,7 +28630,7 @@
     state: WA
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2WA02201
@@ -28654,7 +28654,7 @@
     state: WA
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8WA03156
@@ -28666,7 +28666,7 @@
     state: WA
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WA03114
@@ -28678,7 +28678,7 @@
     state: WA
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0WA03187
@@ -28690,7 +28690,7 @@
     state: WA
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WA04138
@@ -28714,7 +28714,7 @@
     state: WA
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WA04088
@@ -28726,7 +28726,7 @@
     state: WA
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WA04146
@@ -28738,7 +28738,7 @@
     state: WA
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WA04112
@@ -28750,7 +28750,7 @@
     state: WA
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WA04104
@@ -28762,7 +28762,7 @@
     state: WA
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WA04120
@@ -28774,7 +28774,7 @@
     state: WA
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8WA04048
@@ -28786,7 +28786,7 @@
     state: WA
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WA20019
@@ -28822,7 +28822,7 @@
     state: WA
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WA04153
@@ -28834,7 +28834,7 @@
     state: WA
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WA04062
@@ -28858,7 +28858,7 @@
     state: WA
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WA05077
@@ -28870,7 +28870,7 @@
     state: WA
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WA05127
@@ -28882,7 +28882,7 @@
     state: WA
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WA05135
@@ -28906,7 +28906,7 @@
     state: WA
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WA06075
@@ -28918,7 +28918,7 @@
     state: WA
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WA06083
@@ -28954,7 +28954,7 @@
     state: WA
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2WA00049
@@ -28966,7 +28966,7 @@
     state: WA
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WA07073
@@ -28978,7 +28978,7 @@
     state: WA
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8WA07132
@@ -28990,7 +28990,7 @@
     state: WA
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WA07065
@@ -29014,7 +29014,7 @@
     state: WA
     district: 7
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0WA07113
@@ -29026,7 +29026,7 @@
     state: WA
     district: 7
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8WA08080
@@ -29038,7 +29038,7 @@
     state: WA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WA08071
@@ -29050,7 +29050,7 @@
     state: WA
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WA08121
@@ -29062,7 +29062,7 @@
     state: WA
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WA09061
@@ -29074,7 +29074,7 @@
     state: WA
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WA09020
@@ -29098,7 +29098,7 @@
     state: WA
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6WA09025
@@ -29110,7 +29110,7 @@
     state: WA
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2WA10048
@@ -29134,7 +29134,7 @@
     state: WA
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WA10010
@@ -29146,7 +29146,7 @@
     state: WA
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WA10036
@@ -29578,7 +29578,7 @@
     state: WV
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4WV00241
@@ -29590,7 +29590,7 @@
     state: WV
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4WV00159
@@ -29602,7 +29602,7 @@
     state: WV
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4WV00217
@@ -29614,7 +29614,7 @@
     state: WV
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4WV00209
@@ -29626,7 +29626,7 @@
     state: WV
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S6WV00063
@@ -29638,7 +29638,7 @@
     state: WV
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4WV00175
@@ -29650,7 +29650,7 @@
     state: WV
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4WV00167
@@ -29662,7 +29662,7 @@
     state: WV
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4WV00225
@@ -29674,7 +29674,7 @@
     state: WV
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4WV00258
@@ -29686,7 +29686,7 @@
     state: WV
     district: 0
     party: NNE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4WV00183
@@ -29698,7 +29698,7 @@
     state: WV
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4WV00233
@@ -29710,7 +29710,7 @@
     state: WV
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2WV01037
@@ -29722,7 +29722,7 @@
     state: WV
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0WV01072
@@ -29734,7 +29734,7 @@
     state: WV
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6WV01061
@@ -29758,7 +29758,7 @@
     state: WV
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WV02064
@@ -29770,7 +29770,7 @@
     state: WV
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WV02148
@@ -29782,7 +29782,7 @@
     state: WV
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WV02155
@@ -29794,7 +29794,7 @@
     state: WV
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WV02130
@@ -29806,7 +29806,7 @@
     state: WV
     district: 2
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WV02098
@@ -29818,7 +29818,7 @@
     state: WV
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WV02080
@@ -29830,7 +29830,7 @@
     state: WV
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2WV02167
@@ -29842,7 +29842,7 @@
     state: WV
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WV02106
@@ -29854,7 +29854,7 @@
     state: WV
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WV02163
@@ -29866,7 +29866,7 @@
     state: WV
     district: 2
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WV02122
@@ -29878,7 +29878,7 @@
     state: WV
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WV02114
@@ -29890,7 +29890,7 @@
     state: WV
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WV03070
@@ -29902,7 +29902,7 @@
     state: WV
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WV03088
@@ -29914,7 +29914,7 @@
     state: WV
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6WV04057
@@ -29926,7 +29926,7 @@
     state: WV
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S6WY00068
