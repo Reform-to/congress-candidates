@@ -7642,7 +7642,7 @@
     state: GA
     district: 11
     party: REP
-    on_ballot: Y
+    on_ballot: N
 - id: 
     fec: 
     - H4GA11111
@@ -7654,7 +7654,7 @@
     state: GA
     district: 11
     party: DEM
-    on_ballot: Y
+    on_ballot: N
 - id: 
     fec: 
     - H2GA12121
