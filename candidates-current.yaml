@@ -21034,7 +21034,7 @@
     state: OH
     district: 14
     party: REP
-    on_ballot: N
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH14102
@@ -21046,7 +21046,7 @@
     state: OH
     district: 14
     party: DEM
-    on_ballot: N
+    on_ballot: Y
 - id: 
     fec: 
     - H4OH15067
