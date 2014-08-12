@@ -17254,7 +17254,7 @@
     state: NE
     district: 0
     party: IND
-    on_ballot: N
+    on_ballot: Y
 - id: 
     fec: 
     - H4NE01163
