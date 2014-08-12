@@ -21214,7 +21214,7 @@
     state: OK
     district: 0
     party: IND
-    on_ballot: N
+    on_ballot: Y
 - id: 
     fec: 
     - S4OK00224
@@ -22318,7 +22318,7 @@
     state: PA
     district: 3
     party: DEM
-    on_ballot: Y
+    on_ballot: N
 - id: 
     fec: 
     - H4PA03083
@@ -22330,7 +22330,7 @@
     state: PA
     district: 3
     party: DEM
-    on_ballot: Y
+    on_ballot: N
 - id: 
     fec: 
     - H8PA03100
