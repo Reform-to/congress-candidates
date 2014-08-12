@@ -19054,7 +19054,7 @@
     state: NV
     district: 3
     party: DEM
-    on_ballot: N
+    on_ballot: Y
 - id: 
     fec: 
     - H4NV03134
