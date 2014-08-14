@@ -5038,7 +5038,7 @@
     state: CT
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8CT01046
@@ -5050,7 +5050,7 @@
     state: CT
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CT02068
@@ -5062,7 +5062,7 @@
     state: CT
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2CT02112
@@ -5074,7 +5074,7 @@
     state: CT
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CT02076
@@ -5086,7 +5086,7 @@
     state: CT
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8CT02085
@@ -5098,7 +5098,7 @@
     state: CT
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CT03082
@@ -5110,7 +5110,7 @@
     state: CT
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0CT03072
@@ -5122,7 +5122,7 @@
     state: CT
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CT04148
@@ -5134,7 +5134,7 @@
     state: CT
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CT04146
@@ -5146,7 +5146,7 @@
     state: CT
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CT04130
@@ -5158,7 +5158,7 @@
     state: CT
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4CT04122
@@ -5170,7 +5170,7 @@
     state: CT
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8CT04172
@@ -5182,7 +5182,7 @@
     state: CT
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CT04114
@@ -5194,7 +5194,7 @@
     state: CT
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CT05131
@@ -5206,7 +5206,7 @@
     state: CT
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0CT05150
@@ -5218,7 +5218,7 @@
     state: CT
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4CT05129
@@ -5230,7 +5230,7 @@
     state: CT
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0CT05127
@@ -5242,7 +5242,7 @@
     state: CT
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4DC00084
