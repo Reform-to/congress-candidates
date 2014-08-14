@@ -14038,7 +14038,7 @@
     state: MN
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4MN00338
@@ -14050,7 +14050,7 @@
     state: MN
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4MN00452
@@ -14062,7 +14062,7 @@
     state: MN
     district: 0
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S2MN00290
@@ -14074,7 +14074,7 @@
     state: MN
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4MN00437
@@ -14086,7 +14086,7 @@
     state: MN
     district: 0
     party: OTH
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4MN00379
@@ -14098,7 +14098,7 @@
     state: MN
     district: 0
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S8MN00438
@@ -14110,7 +14110,7 @@
     state: MN
     district: 0
     party: DFL
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4MN00411
@@ -14122,7 +14122,7 @@
     state: MN
     district: 0
     party: DFL
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4MN00445
@@ -14134,7 +14134,7 @@
     state: MN
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4MN00395
@@ -14146,7 +14146,7 @@
     state: MN
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4MN00346
@@ -14158,7 +14158,7 @@
     state: MN
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4MN00429
@@ -14170,7 +14170,7 @@
     state: MN
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4MN00361
@@ -14182,7 +14182,7 @@
     state: MN
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4MN00387
@@ -14194,7 +14194,7 @@
     state: MN
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4MN00023
@@ -14206,7 +14206,7 @@
     state: MN
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S2MN00159
@@ -14218,7 +14218,7 @@
     state: MN
     district: 0
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S6MN00333
@@ -14230,7 +14230,7 @@
     state: MN
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4MN00403
@@ -14242,7 +14242,7 @@
     state: MN
     district: 0
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S6MN00382
@@ -14254,7 +14254,7 @@
     state: MN
     district: 0
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4MN01153
@@ -14266,7 +14266,7 @@
     state: MN
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0MN01045
@@ -14278,7 +14278,7 @@
     state: MN
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4MN01161
@@ -14290,7 +14290,7 @@
     state: MN
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6MN01174
@@ -14302,7 +14302,7 @@
     state: MN
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4MN02128
@@ -14314,7 +14314,7 @@
     state: MN
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2MN02130
@@ -14326,7 +14326,7 @@
     state: MN
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8MN06047
@@ -14338,7 +14338,7 @@
     state: MN
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4MN02110
@@ -14350,7 +14350,7 @@
     state: MN
     district: 2
     party: DFL
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2MN02122
@@ -14362,7 +14362,7 @@
     state: MN
     district: 2
     party: DFL
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4MN02136
@@ -14374,7 +14374,7 @@
     state: MN
     district: 2
     party: DFL
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4MN02144
@@ -14386,7 +14386,7 @@
     state: MN
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8MN03077
@@ -14398,7 +14398,7 @@
     state: MN
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2MN03062
@@ -14410,7 +14410,7 @@
     state: MN
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0MN04049
@@ -14422,7 +14422,7 @@
     state: MN
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4MN04124
@@ -14434,7 +14434,7 @@
     state: MN
     district: 4
     party: OTH
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4MN04116
@@ -14446,7 +14446,7 @@
     state: MN
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4MN05089
@@ -14458,7 +14458,7 @@
     state: MN
     district: 5
     party: OTH
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4MN05071
@@ -14470,7 +14470,7 @@
     state: MN
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6MN05183
@@ -14482,7 +14482,7 @@
     state: MN
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4MN06137
@@ -14494,7 +14494,7 @@
     state: MN
     district: 6
     party: OTH
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4MN06087
@@ -14506,7 +14506,7 @@
     state: MN
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2MN06198
@@ -14518,7 +14518,7 @@
     state: MN
     district: 6
     party: DFL
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6MN06108
@@ -14530,7 +14530,7 @@
     state: MN
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4MN06095
@@ -14542,7 +14542,7 @@
     state: MN
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4MN06129
@@ -14554,7 +14554,7 @@
     state: MN
     district: 6
     party: DFL
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4MN06111
@@ -14566,7 +14566,7 @@
     state: MN
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4MN06103
@@ -14578,7 +14578,7 @@
     state: MN
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2MN07014
@@ -14590,7 +14590,7 @@
     state: MN
     district: 7
     party: DFL
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4MN07077
@@ -14602,7 +14602,7 @@
     state: MN
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4MN08083
@@ -14614,7 +14614,7 @@
     state: MN
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2MN08111
@@ -14626,7 +14626,7 @@
     state: MN
     district: 8
     party: DFL
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4MN08091
@@ -14638,7 +14638,7 @@
     state: MN
     district: 8
     party: GRE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0MO01140
