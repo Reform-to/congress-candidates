@@ -29170,7 +29170,7 @@
     state: WI
     district: 1
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WI01130
@@ -29182,7 +29182,7 @@
     state: WI
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WI01148
@@ -29194,7 +29194,7 @@
     state: WI
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8WI01024
@@ -29206,7 +29206,7 @@
     state: WI
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2WI01084
@@ -29218,7 +29218,7 @@
     state: WI
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2WI02124
@@ -29230,7 +29230,7 @@
     state: WI
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8WI02121
@@ -29242,7 +29242,7 @@
     state: WI
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WI03128
@@ -29254,7 +29254,7 @@
     state: WI
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6WI03099
@@ -29266,7 +29266,7 @@
     state: WI
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2WI02116
@@ -29278,7 +29278,7 @@
     state: WI
     district: 3
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WI03144
@@ -29290,7 +29290,7 @@
     state: WI
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WI03151
@@ -29302,7 +29302,7 @@
     state: WI
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WI03136
@@ -29314,7 +29314,7 @@
     state: WI
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WI04241
@@ -29326,7 +29326,7 @@
     state: WI
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WI00017
@@ -29338,7 +29338,7 @@
     state: WI
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WI04258
@@ -29350,7 +29350,7 @@
     state: WI
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WI04183
@@ -29362,7 +29362,7 @@
     state: WI
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0WI04090
@@ -29374,7 +29374,7 @@
     state: WI
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WI05024
@@ -29386,7 +29386,7 @@
     state: WI
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WI05099
@@ -29398,7 +29398,7 @@
     state: WI
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8WI09050
@@ -29410,7 +29410,7 @@
     state: WI
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WI06089
@@ -29422,7 +29422,7 @@
     state: WI
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WI06048
@@ -29434,7 +29434,7 @@
     state: WI
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WI06071
@@ -29446,7 +29446,7 @@
     state: WI
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WI06063
@@ -29458,7 +29458,7 @@
     state: WI
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WI06097
@@ -29470,7 +29470,7 @@
     state: WI
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WI06055
@@ -29482,7 +29482,7 @@
     state: WI
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0WI07051
@@ -29494,7 +29494,7 @@
     state: WI
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0WI03084
@@ -29506,7 +29506,7 @@
     state: WI
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WI07103
@@ -29518,7 +29518,7 @@
     state: WI
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WI07095
@@ -29530,7 +29530,7 @@
     state: WI
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WI08077
@@ -29542,7 +29542,7 @@
     state: WI
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0WI07093
@@ -29554,7 +29554,7 @@
     state: WI
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0WI08075
@@ -29566,7 +29566,7 @@
     state: WI
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4WV00266
