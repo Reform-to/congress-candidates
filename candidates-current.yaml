@@ -10,7 +10,7 @@
     state: AK
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4AK00222
@@ -22,7 +22,7 @@
     state: AK
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0AK00097
@@ -34,7 +34,7 @@
     state: AK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AK00131
@@ -46,7 +46,7 @@
     state: AK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AK00123
@@ -58,7 +58,7 @@
     state: AK
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4AK00230
@@ -70,7 +70,7 @@
     state: AK
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4AK00198
@@ -82,7 +82,7 @@
     state: AK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4AK00263
@@ -94,7 +94,7 @@
     state: AK
     district: 0
     party: IDP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4AK00248
@@ -106,7 +106,7 @@
     state: AK
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4AK00271
@@ -118,7 +118,7 @@
     state: AK
     district: 0
     party: IDP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2AK00143
@@ -130,7 +130,7 @@
     state: AK
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S0AK00121
@@ -142,7 +142,7 @@
     state: AK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2AK00101
@@ -154,7 +154,7 @@
     state: AK
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AK00149
@@ -166,7 +166,7 @@
     state: AK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4AK00214
@@ -178,7 +178,7 @@
     state: AK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4AK00206
@@ -190,7 +190,7 @@
     state: AK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AK00057
@@ -202,7 +202,7 @@
     state: AK
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4AK00255
@@ -214,7 +214,7 @@
     state: AK
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6AK00045
@@ -226,7 +226,7 @@
     state: AK
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S6AL00195
