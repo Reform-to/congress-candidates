@@ -7846,7 +7846,7 @@
     state: HI
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S8HI00111
