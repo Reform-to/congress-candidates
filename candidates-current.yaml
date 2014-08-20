@@ -7870,7 +7870,7 @@
     state: HI
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4HI00169
@@ -7930,7 +7930,7 @@
     state: HI
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4HI01118
