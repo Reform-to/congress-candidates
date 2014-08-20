@@ -29950,7 +29950,7 @@
     state: WY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S2WY00117
@@ -29962,7 +29962,7 @@
     state: WY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S2WY00091
@@ -29974,7 +29974,7 @@
     state: WY
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4WY00089
@@ -29986,7 +29986,7 @@
     state: WY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4WY00121
@@ -29998,7 +29998,7 @@
     state: WY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2WY00133
@@ -30010,7 +30010,7 @@
     state: WY
     district: 0
     party: CST
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S6WY00126
@@ -30022,7 +30022,7 @@
     state: WY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4WY00105
@@ -30034,7 +30034,7 @@
     state: WY
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4WY00170
@@ -30046,7 +30046,7 @@
     state: WY
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4WY00139
@@ -30058,7 +30058,7 @@
     state: WY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4WY00030
@@ -30070,7 +30070,7 @@
     state: WY
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4WY00097
@@ -30082,7 +30082,7 @@
     state: WY
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8WY00148
@@ -30094,7 +30094,7 @@
     state: WY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4WY00147
@@ -30106,7 +30106,7 @@
     state: WY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4WY00188
@@ -30118,7 +30118,7 @@
     state: WY
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4WY00113
@@ -30130,4 +30130,4 @@
     state: WY
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
