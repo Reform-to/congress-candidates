@@ -15778,7 +15778,7 @@
     state: MT
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4MT01058
@@ -15802,7 +15802,7 @@
     state: MT
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4MT00134
@@ -15815,6 +15815,18 @@
     district: 0
     party: REP
     on_ballot: N
+- id: 
+    fec: 
+    - S4MT00159
+  name: 
+    official_full: CURTIS, AMANDA
+  races: 
+  - type: sen
+    cycle: 2014
+    state: MT
+    district: 0
+    party: DEM
+    on_ballot: Y
 - id: 
     fec: 
     - S2MT00096
