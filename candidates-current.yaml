@@ -28486,7 +28486,7 @@
     state: VT
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4VT00116
@@ -28498,7 +28498,7 @@
     state: VT
     district: 0
     party: LBU
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2VT00110
@@ -28510,7 +28510,7 @@
     state: VT
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4VT00108
@@ -28522,7 +28522,7 @@
     state: VT
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6VT00160
@@ -28534,7 +28534,7 @@
     state: VT
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4WA00524
