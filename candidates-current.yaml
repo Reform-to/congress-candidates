@@ -5410,7 +5410,7 @@
     state: FL
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8FL01099
@@ -5422,7 +5422,7 @@
     state: FL
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0FL00023
@@ -5434,7 +5434,7 @@
     state: FL
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2FL01100
@@ -5446,7 +5446,7 @@
     state: FL
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL01155
@@ -5458,7 +5458,7 @@
     state: FL
     district: 1
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2FL01209
@@ -5470,7 +5470,7 @@
     state: FL
     district: 2
     party: REF
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL02062
@@ -5482,7 +5482,7 @@
     state: FL
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL02070
@@ -5494,7 +5494,7 @@
     state: FL
     district: 2
     party: OTH
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0FL02110
@@ -5506,7 +5506,7 @@
     state: FL
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL03102
@@ -5518,7 +5518,7 @@
     state: FL
     district: 3
     party: UNK
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL03086
@@ -5530,7 +5530,7 @@
     state: FL
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL03094
@@ -5542,7 +5542,7 @@
     state: FL
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL03110
@@ -5554,7 +5554,7 @@
     state: FL
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2FL06109
@@ -5566,7 +5566,7 @@
     state: FL
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0FL04066
@@ -5578,7 +5578,7 @@
     state: FL
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0FL04116
@@ -5590,7 +5590,7 @@
     state: FL
     district: 4
     party: NPA
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL04043
@@ -5602,7 +5602,7 @@
     state: FL
     district: 4
     party: NPA
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0FL04033
@@ -5614,7 +5614,7 @@
     state: FL
     district: 4
     party: W
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL04035
@@ -5626,7 +5626,7 @@
     state: FL
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2FL03056
@@ -5638,7 +5638,7 @@
     state: FL
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL05073
@@ -5650,7 +5650,7 @@
     state: FL
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL05065
@@ -5662,7 +5662,7 @@
     state: FL
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL06022
@@ -5674,7 +5674,7 @@
     state: FL
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2FL00292
@@ -5686,7 +5686,7 @@
     state: FL
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL07079
@@ -5698,7 +5698,7 @@
     state: FL
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL07095
@@ -5710,7 +5710,7 @@
     state: FL
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6FL08130
@@ -5722,7 +5722,7 @@
     state: FL
     district: 7
     party: NNE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2FL08055
@@ -5734,7 +5734,7 @@
     state: FL
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL07087
@@ -5746,7 +5746,7 @@
     state: FL
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL07103
@@ -5758,7 +5758,7 @@
     state: FL
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL07111
@@ -5770,7 +5770,7 @@
     state: FL
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL07061
@@ -5782,7 +5782,7 @@
     state: FL
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL08093
@@ -5794,7 +5794,7 @@
     state: FL
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8FL15107
@@ -5806,7 +5806,7 @@
     state: FL
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL08085
@@ -5818,7 +5818,7 @@
     state: FL
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL08077
@@ -5830,7 +5830,7 @@
     state: FL
     district: 8
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL09109
@@ -5842,7 +5842,7 @@
     state: FL
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6FL08213
@@ -5854,7 +5854,7 @@
     state: FL
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL09125
@@ -5866,7 +5866,7 @@
     state: FL
     district: 9
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL09133
@@ -5878,7 +5878,7 @@
     state: FL
     district: 9
     party: UNK
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL09083
@@ -5890,7 +5890,7 @@
     state: FL
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL09141
@@ -5902,7 +5902,7 @@
     state: FL
     district: 9
     party: W
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0FL24171
@@ -5914,7 +5914,7 @@
     state: FL
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL09117
@@ -5926,7 +5926,7 @@
     state: FL
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL10115
@@ -5938,7 +5938,7 @@
     state: FL
     district: 10
     party: W
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL10107
@@ -5950,7 +5950,7 @@
     state: FL
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL09091
@@ -5962,7 +5962,7 @@
     state: FL
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL10099
@@ -5974,7 +5974,7 @@
     state: FL
     district: 10
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL10057
@@ -5986,7 +5986,7 @@
     state: FL
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0FL08208
@@ -5998,7 +5998,7 @@
     state: FL
     district: 10
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL11071
@@ -6010,7 +6010,7 @@
     state: FL
     district: 11
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0FL05139
@@ -6022,7 +6022,7 @@
     state: FL
     district: 11
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL11063
@@ -6034,7 +6034,7 @@
     state: FL
     district: 11
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6FL09070
@@ -6046,7 +6046,7 @@
     state: FL
     district: 12
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL12061
@@ -6058,7 +6058,7 @@
     state: FL
     district: 12
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL13135
@@ -6070,7 +6070,7 @@
     state: FL
     district: 13
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2FL10150
@@ -6082,7 +6082,7 @@
     state: FL
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL13119
@@ -6094,7 +6094,7 @@
     state: FL
     district: 13
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL13168
@@ -6106,7 +6106,7 @@
     state: FL
     district: 13
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL13101
@@ -6118,7 +6118,7 @@
     state: FL
     district: 13
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL13150
@@ -6130,7 +6130,7 @@
     state: FL
     district: 13
     party: OTH
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL13077
@@ -6142,7 +6142,7 @@
     state: FL
     district: 13
     party: LPF
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL13127
@@ -6154,7 +6154,7 @@
     state: FL
     district: 13
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL13093
@@ -6166,7 +6166,7 @@
     state: FL
     district: 13
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL13085
@@ -6178,7 +6178,7 @@
     state: FL
     district: 13
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6FL11126
@@ -6190,7 +6190,7 @@
     state: FL
     district: 14
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2FL14160
@@ -6202,7 +6202,7 @@
     state: FL
     district: 14
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL15155
@@ -6214,7 +6214,7 @@
     state: FL
     district: 15
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0FL12101
@@ -6226,7 +6226,7 @@
     state: FL
     district: 15
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6FL13148
@@ -6238,7 +6238,7 @@
     state: FL
     district: 16
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL16146
@@ -6250,7 +6250,7 @@
     state: FL
     district: 16
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL16153
@@ -6262,7 +6262,7 @@
     state: FL
     district: 16
     party: W
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL16120
@@ -6274,7 +6274,7 @@
     state: FL
     district: 16
     party: NPA
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL16138
@@ -6286,7 +6286,7 @@
     state: FL
     district: 16
     party: UNK
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2FL00300
@@ -6298,7 +6298,7 @@
     state: FL
     district: 17
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL17037
@@ -6310,7 +6310,7 @@
     state: FL
     district: 17
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8FL16022
@@ -6322,7 +6322,7 @@
     state: FL
     district: 17
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL18050
@@ -6334,7 +6334,7 @@
     state: FL
     district: 18
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL18068
@@ -6346,7 +6346,7 @@
     state: FL
     district: 18
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL18084
@@ -6358,7 +6358,7 @@
     state: FL
     district: 18
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL18100
@@ -6370,7 +6370,7 @@
     state: FL
     district: 18
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL18118
@@ -6382,7 +6382,7 @@
     state: FL
     district: 18
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2FL22072
@@ -6394,7 +6394,7 @@
     state: FL
     district: 18
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL18043
@@ -6406,7 +6406,7 @@
     state: FL
     district: 18
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL18076
@@ -6418,7 +6418,7 @@
     state: FL
     district: 18
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL18092
@@ -6430,7 +6430,7 @@
     state: FL
     district: 18
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL19090
@@ -6442,7 +6442,7 @@
     state: FL
     district: 19
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL19074
@@ -6454,7 +6454,7 @@
     state: FL
     district: 19
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL19108
@@ -6466,7 +6466,7 @@
     state: FL
     district: 19
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL19058
@@ -6478,7 +6478,7 @@
     state: FL
     district: 19
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL19066
@@ -6490,7 +6490,7 @@
     state: FL
     district: 19
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2FL00284
@@ -6502,7 +6502,7 @@
     state: FL
     district: 19
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0FL02136
@@ -6514,7 +6514,7 @@
     state: FL
     district: 19
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL19082
@@ -6526,7 +6526,7 @@
     state: FL
     district: 19
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL20064
@@ -6538,7 +6538,7 @@
     state: FL
     district: 20
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL20056
@@ -6550,7 +6550,7 @@
     state: FL
     district: 20
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2FL23021
@@ -6562,7 +6562,7 @@
     state: FL
     district: 20
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL20072
@@ -6574,7 +6574,7 @@
     state: FL
     district: 20
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL21062
@@ -6586,7 +6586,7 @@
     state: FL
     district: 21
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0FL19080
@@ -6598,7 +6598,7 @@
     state: FL
     district: 21
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL21054
@@ -6610,7 +6610,7 @@
     state: FL
     district: 21
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2FL21066
@@ -6622,7 +6622,7 @@
     state: FL
     district: 21
     party: W
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2FL14053
@@ -6634,7 +6634,7 @@
     state: FL
     district: 22
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL22086
@@ -6646,7 +6646,7 @@
     state: FL
     district: 22
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL22094
@@ -6658,7 +6658,7 @@
     state: FL
     district: 22
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL22102
@@ -6670,7 +6670,7 @@
     state: FL
     district: 22
     party: OTH
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL22110
@@ -6682,7 +6682,7 @@
     state: FL
     district: 22
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2FL22114
@@ -6694,7 +6694,7 @@
     state: FL
     district: 22
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL23076
@@ -6706,7 +6706,7 @@
     state: FL
     district: 23
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0FL20070
@@ -6718,7 +6718,7 @@
     state: FL
     district: 23
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2FL20043
@@ -6730,7 +6730,7 @@
     state: FL
     district: 23
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL23068
@@ -6742,7 +6742,7 @@
     state: FL
     district: 23
     party: NNE
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL20023
@@ -6754,7 +6754,7 @@
     state: FL
     district: 23
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL24017
@@ -6766,7 +6766,7 @@
     state: FL
     district: 24
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL24025
@@ -6778,7 +6778,7 @@
     state: FL
     district: 24
     party: NNE
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6FL17032
@@ -6790,7 +6790,7 @@
     state: FL
     district: 24
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL24033
@@ -6802,7 +6802,7 @@
     state: FL
     district: 24
     party: W
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0FL17068
@@ -6814,7 +6814,7 @@
     state: FL
     district: 24
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2FL25018
@@ -6826,7 +6826,7 @@
     state: FL
     district: 25
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL25014
@@ -6838,7 +6838,7 @@
     state: FL
     district: 25
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL26038
@@ -6850,7 +6850,7 @@
     state: FL
     district: 26
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8FL25015
@@ -6862,7 +6862,7 @@
     state: FL
     district: 26
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL26012
@@ -6874,7 +6874,7 @@
     state: FL
     district: 26
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL26061
@@ -6886,7 +6886,7 @@
     state: FL
     district: 26
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4FL26046
@@ -6898,7 +6898,7 @@
     state: FL
     district: 26
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2FL18054
@@ -6910,7 +6910,7 @@
     state: FL
     district: 26
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0FL25038
@@ -6934,7 +6934,7 @@
     state: FL
     district: 27
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4GA01047
