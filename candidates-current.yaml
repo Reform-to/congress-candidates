@@ -970,7 +970,7 @@
     state: AZ
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AZ01152
@@ -1006,7 +1006,7 @@
     state: AZ
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AZ02135
@@ -1018,7 +1018,7 @@
     state: AZ
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AZ02127
@@ -1030,7 +1030,7 @@
     state: AZ
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2AZ08102
@@ -1042,7 +1042,7 @@
     state: AZ
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AZ02143
@@ -1054,7 +1054,7 @@
     state: AZ
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2AZ07070
@@ -1066,7 +1066,7 @@
     state: AZ
     district: 3
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AZ03059
@@ -1078,7 +1078,7 @@
     state: AZ
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2AZ07146
@@ -1090,7 +1090,7 @@
     state: AZ
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8AZ01161
@@ -1102,7 +1102,7 @@
     state: AZ
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AZ03067
@@ -1114,7 +1114,7 @@
     state: AZ
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2AZ07161
@@ -1126,7 +1126,7 @@
     state: AZ
     district: 3
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0AZ01259
@@ -1138,7 +1138,7 @@
     state: AZ
     district: 4
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H8AZ06012
@@ -1150,7 +1150,7 @@
     state: AZ
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2AZ04143
@@ -1162,7 +1162,7 @@
     state: AZ
     district: 4
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AZ01038
@@ -1174,7 +1174,7 @@
     state: AZ
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AZ05070
@@ -1186,7 +1186,7 @@
     state: AZ
     district: 5
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AZ05088
@@ -1198,7 +1198,7 @@
     state: AZ
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AZ06045
@@ -1210,7 +1210,7 @@
     state: AZ
     district: 6
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2AZ05132
@@ -1222,7 +1222,7 @@
     state: AZ
     district: 6
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2AZ02220
@@ -1234,7 +1234,7 @@
     state: AZ
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AZ07035
@@ -1246,7 +1246,7 @@
     state: AZ
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H6AZ07022
@@ -1258,7 +1258,7 @@
     state: AZ
     district: 7
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AZ07050
@@ -1270,7 +1270,7 @@
     state: AZ
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AZ07043
@@ -1282,7 +1282,7 @@
     state: AZ
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AZ07076
@@ -1294,7 +1294,7 @@
     state: AZ
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0AZ04501
@@ -1306,7 +1306,7 @@
     state: AZ
     district: 7
     party: IND
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2AZ04150
@@ -1318,7 +1318,7 @@
     state: AZ
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AZ07092
@@ -1330,7 +1330,7 @@
     state: AZ
     district: 7
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AZ07084
@@ -1342,7 +1342,7 @@
     state: AZ
     district: 7
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AZ07068
@@ -1354,7 +1354,7 @@
     state: AZ
     district: 7
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AZ04024
@@ -1366,7 +1366,7 @@
     state: AZ
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AZ08066
@@ -1378,7 +1378,7 @@
     state: AZ
     district: 8
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AZ02119
@@ -1390,7 +1390,7 @@
     state: AZ
     district: 9
     party: LIB
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0AZ03321
@@ -1402,7 +1402,7 @@
     state: AZ
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2AZ09035
@@ -1414,7 +1414,7 @@
     state: AZ
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2AZ09050
@@ -1426,7 +1426,7 @@
     state: AZ
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2AZ09019
@@ -1438,7 +1438,7 @@
     state: AZ
     district: 9
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4AZ09015
@@ -1450,7 +1450,7 @@
     state: AZ
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AZ09023
@@ -1462,7 +1462,7 @@
     state: AZ
     district: 9
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H2CA01136
