@@ -21634,7 +21634,7 @@
     state: OK
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OK05108
@@ -21646,7 +21646,7 @@
     state: OK
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0OK05155
@@ -21658,7 +21658,7 @@
     state: OK
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0OK05130
@@ -21670,7 +21670,7 @@
     state: OK
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OK05116
@@ -21682,7 +21682,7 @@
     state: OK
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OK05165
@@ -21694,7 +21694,7 @@
     state: OK
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OK05124
@@ -21706,7 +21706,7 @@
     state: OK
     district: 5
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H6OK04098
@@ -21730,7 +21730,7 @@
     state: OK
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4OK05157
@@ -21742,7 +21742,7 @@
     state: OK
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4OK05140
@@ -21754,7 +21754,7 @@
     state: OK
     district: 5
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4OR00214
