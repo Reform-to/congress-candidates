@@ -946,7 +946,7 @@
     state: AZ
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H4AZ01145
@@ -958,7 +958,7 @@
     state: AZ
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H8AZ01104
@@ -982,7 +982,7 @@
     state: AZ
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0AZ01325
@@ -994,7 +994,7 @@
     state: AZ
     district: 1
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2AZ08094
