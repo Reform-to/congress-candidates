@@ -17470,7 +17470,7 @@
     state: NH
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NH00120
@@ -17482,7 +17482,7 @@
     state: NH
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4NH00138
@@ -17494,7 +17494,7 @@
     state: NH
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NH00146
@@ -17506,7 +17506,7 @@
     state: NH
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S2NH00124
@@ -17518,7 +17518,7 @@
     state: NH
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NH00179
@@ -17530,7 +17530,7 @@
     state: NH
     district: 0
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4NH00153
@@ -17542,7 +17542,7 @@
     state: NH
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NH00161
@@ -17554,7 +17554,7 @@
     state: NH
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NH00088
@@ -17566,7 +17566,7 @@
     state: NH
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NH00096
@@ -17578,7 +17578,7 @@
     state: NH
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NH00112
@@ -17590,7 +17590,7 @@
     state: NH
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S0NH00219
@@ -17602,7 +17602,7 @@
     state: NH
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S0NH00144
@@ -17614,7 +17614,7 @@
     state: NH
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S4NH00104
@@ -17626,7 +17626,7 @@
     state: NH
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - H0NH01217
@@ -17686,7 +17686,7 @@
     state: NH
     district: 1
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NH02274
@@ -17698,7 +17698,7 @@
     state: NH
     district: 2
     party: IND
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NH02241
@@ -17722,7 +17722,7 @@
     state: NH
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4NH02233
