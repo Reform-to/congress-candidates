@@ -5338,7 +5338,7 @@
     state: DE
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S0DE00092
@@ -5350,7 +5350,7 @@
     state: DE
     district: 0
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H2DE00148
@@ -5362,7 +5362,7 @@
     state: DE
     district: 0
     party: LIB
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0DE01025
@@ -5374,7 +5374,7 @@
     state: DE
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4DE00052
@@ -5386,7 +5386,7 @@
     state: DE
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: N
 - id: 
     fec: 
     - S2DE00064
@@ -5398,7 +5398,7 @@
     state: DE
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4FL00033
