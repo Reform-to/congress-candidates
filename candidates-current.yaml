@@ -22966,7 +22966,7 @@
     state: RI
     district: 0
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H0RI01073
@@ -23038,7 +23038,7 @@
     state: RI
     district: 2
     party: DEM
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - H4RI02107
@@ -23050,7 +23050,7 @@
     state: RI
     district: 2
     party: REP
-    on_ballot: 
+    on_ballot: Y
 - id: 
     fec: 
     - S4SC00232
